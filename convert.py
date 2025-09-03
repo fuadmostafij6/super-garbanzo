@@ -8,7 +8,6 @@ from typing import List, Dict, Optional
 M3U_URLS: List[str] = [
     "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/CricHD.m3u",
     # TheTVApp consolidated list (example from the user)
-    "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/TheTVApp.m3u8",
     # Fancode live events (user provided)
     "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u",
 ]
