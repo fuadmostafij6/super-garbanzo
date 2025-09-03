@@ -420,12 +420,6 @@
     "m3u8": "https://tvsen7.aynaott.com/disneyjr/index.m3u8?e=1753741207&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=38f07a625828693d8ca6d5d8345f9fe2"
   },
   {
-    "id": "nicktoons",
-    "title": "Nicktoons",
-    "category": "Channels",
-    "m3u8": "https://tvsen5.aynaott.com/nicktoons/index.fmp4.m3u8?token=cd7d92583d3c34e8084d8c82341d420c89008dd7-ddb4760f9a0dce8b292d97e30093f937-1753734607-1753733707&remote=no_check_ip"
-  },
-  {
     "id": "nickjr",
     "title": "Nickjr",
     "category": "Channels",
@@ -828,6 +822,12 @@
     "m3u8": "https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1753741230&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=5fca30251e531337b5339bbba78bd449"
   },
   {
+    "id": "bt_sport_1",
+    "title": "BT Sport 1",
+    "category": "Sports",
+    "m3u8": "https://tvsen6.aynaott.com/btSport1/index.m3u8?e=1753741231&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=eac67baaa7aca3e60fd576ca112591bb"
+  },
+  {
     "id": "fox_sports_1",
     "title": "Fox Sports 1",
     "category": "Sports",
@@ -844,6 +844,18 @@
     "title": "ABC News",
     "category": "News",
     "m3u8": "https://tvsen6.aynaott.com/AbcNews/index.m3u8?e=1753741232&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=386b4eeb6eb14948c321b7e5e7b227cb"
+  },
+  {
+    "id": "amiricans_voice_news",
+    "title": "Amiricans Voice News",
+    "category": "News",
+    "m3u8": "https://tvsen6.aynaott.com/AmiricansVoiceNews/index.m3u8?e=1753741232&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=af9546f6dfdcf8992c909a6d09479923"
+  },
+  {
+    "id": "bek_tv_news",
+    "title": "BEK TV News",
+    "category": "News",
+    "m3u8": "https://tvsen6.aynaott.com/BekTvNews/index.m3u8?e=1753741233&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=d0de77c77979e44cb0625a804bd29c47"
   },
   {
     "id": "somoy_news_tv",
@@ -1332,18 +1344,6 @@
     "m3u8": "https://tvsen6.aynaott.com/AbcNews/index.m3u8?e=1753741257&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=41a2db2953c0051f942d340730d78e82"
   },
   {
-    "id": "amiricans_voice_news",
-    "title": "Amiricans Voice News",
-    "category": "English",
-    "m3u8": "https://tvsen6.aynaott.com/AmiricansVoiceNews/index.m3u8?e=1753741257&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=92b2030bec896fb756e7b2e35512935e"
-  },
-  {
-    "id": "bek_tv_news",
-    "title": "BEK TV News",
-    "category": "English",
-    "m3u8": "https://tvsen6.aynaott.com/BekTvNews/index.m3u8?e=1753741258&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=325b2471090065540105dbd310ae78a7"
-  },
-  {
     "id": "rds_social_tv",
     "title": "RDS Social TV",
     "category": "English",
@@ -1428,12 +1428,6 @@
     "m3u8": "https://tvsen6.aynaott.com/cnbc/index.m3u8?e=1753741262&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=9430be8148a4ab1513c76db13f13174a"
   },
   {
-    "id": "cbs_tv",
-    "title": "CBS TV",
-    "category": "English",
-    "m3u8": "https://tvsen7.aynaott.com/cbs/index.m3u8?e=1753741263&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=a85a3f3bbec78592b9ed3d758f2e99ea"
-  },
-  {
     "id": "cp_24",
     "title": "CP 24",
     "category": "English",
@@ -1446,16 +1440,16 @@
     "m3u8": "https://tvsen6.aynaott.com/mtv/index.m3u8?e=1753741263&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=410ab98894ddc28e4df0472b8841d62b"
   },
   {
-    "id": "_usa_tv",
-    "title": "   \t USA TV",
-    "category": "English",
-    "m3u8": "https://tvsen6.aynaott.com/usa/index.m3u8?e=1753741263&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=8dc04f2ed0ec17d0423c7f6e60804fe3"
-  },
-  {
     "id": "msnbc_news",
     "title": "MSNBC News",
     "category": "English",
     "m3u8": "https://tvsen6.aynaott.com/msnbc/index.m3u8?e=1753741263&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=930baf16d40433e41930855cb77df053"
+  },
+  {
+    "id": "islam_tv",
+    "title": "Islam TV",
+    "category": "Religious",
+    "m3u8": "https://tvsen6.aynaott.com/islam/index.m3u8?e=1753741264&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=fc9cf456f09b8b30534ceeeb2639b0c5"
   },
   {
     "id": "rtv_islam",
@@ -1848,10 +1842,10 @@
     "m3u8": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
   },
   {
-    "id": "btSport2",
-    "title": "BT Sport 2",
+    "id": "btSport1",
+    "title": "BT Sport 1",
     "category": "Sports",
-    "m3u8": "https://tvsen6.aynaott.com/btSport2/index.m3u8"
+    "m3u8": "https://tvsen6.aynaott.com/btSport1/index.m3u8"
   },
   {
     "id": "mastiii",
@@ -1912,12 +1906,6 @@
     "title": "ERT Sports 1",
     "category": "Sports",
     "m3u8": "https://tvsen6.aynaott.com/ERTSports1/index.m3u8"
-  },
-  {
-    "id": "DubaiSports1",
-    "title": "Dubai Sports 1",
-    "category": "Sports",
-    "m3u8": "https://tvsen6.aynaott.com/dubaisports1/index.m3u8"
   },
   {
     "id": "DubaiSports2",
