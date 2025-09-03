@@ -1,0 +1,56 @@
+name: Update TV JSON
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 3 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  update-tv:
+    runs-on: ubuntu-latest
+    env:
+      REPO: ${{ github.repository }}
+      BRANCH: ${{ github.ref_name }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run converter
+        run: |
+          python --version
+          if [ -f "convert.py" ]; then
+            python convert.py
+          else
+            echo "convert.py not found; skipping conversion."
+          fi
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit changes
+        run: |
+          git add -A
+          git commit -m "Update tv1.json [skip ci]" || echo "No changes to commit"
+
+      - name: Push changes
+        if: success()
+        run: |
+          set -e
+          # Ensure branch variable (fallback to default branch)
+          BRANCH_NAME=${BRANCH:-${GITHUB_REF_NAME:-"main"}}
+          git pull --rebase origin "$BRANCH_NAME" || true
+          git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${REPO}.git" "HEAD:${BRANCH_NAME}"
+
