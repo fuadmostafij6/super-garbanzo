@@ -3,163 +3,163 @@
     "id": "star_sports_1",
     "title": "Star Sports 1",
     "category": "CricHD 1",
-    "m3u8": "https://d4.merichunidya.com:1686/hls/star1in.m3u8?md5=W3n-YCs4t6G1Fv7kA8MpGQ&expires=1756917842"
+    "m3u8": "https://d5.merichunidya.com:1686/hls/star1in.m3u8?md5=d5OYIf2Lg8_EJ9QsaDwajw&expires=1756921404"
   },
   {
     "id": "star_sports_1_hindi",
     "title": "Star Sports 1 Hindi",
     "category": "CricHD 1",
-    "m3u8": "https://d2.merichunidya.com:1686/hls/starhindi.m3u8?md5=b3lAKrVNNfLC7wZa-kwz3A&expires=1756917843"
+    "m3u8": "https://d10.merichunidya.com:1686/hls/starhindi.m3u8?md5=HX6kktdgVJhV7OQWNXKSBQ&expires=1756921404"
   },
   {
     "id": "ptv_sports",
     "title": "PTV Sports",
     "category": "CricHD 1",
-    "m3u8": "https://d10.merichunidya.com:1686/hls/ptvpk.m3u8?md5=zQKJg4nMeuvyIFZzmWDHMw&expires=1756917843"
+    "m3u8": "https://d8.merichunidya.com:1686/hls/ptvpk.m3u8?md5=DcFE01b0j84pxBwVmDX61A&expires=1756921404"
   },
   {
     "id": "willow_hd",
     "title": "Willow HD",
     "category": "CricHD 1",
-    "m3u8": "https://d1.merichunidya.com:1686/hls/willowusa.m3u8?md5=r1fI6gUGS6ol6vSHIG_IJw&expires=1756917843"
+    "m3u8": "https://d10.merichunidya.com:1686/hls/willowusa.m3u8?md5=rjLpN0Gtx03L9tVL3P9CXw&expires=1756921404"
   },
   {
     "id": "willow_hd_2",
     "title": "Willow HD 2",
     "category": "CricHD 1",
-    "m3u8": "https://d5.merichunidya.com:1686/hls/willowextra.m3u8?md5=hRhAXKkbvunKsMGPn3KINA&expires=1756917843"
+    "m3u8": "https://d4.merichunidya.com:1686/hls/willowextra.m3u8?md5=spHaar_WRbGZxH2DvTHZCg&expires=1756921404"
   },
   {
     "id": "ten_sports",
     "title": "Ten Sports",
     "category": "CricHD 1",
-    "m3u8": "https://d2.merichunidya.com:1686/hls/tenspk.m3u8?md5=YO0zP-9moEaZJ_aEHSWn7w&expires=1756917844"
+    "m3u8": "https://d7.merichunidya.com:1686/hls/tenspk.m3u8?md5=JuVY4G0MCJ3XgQodMGOvsA&expires=1756921404"
   },
   {
     "id": "a_sports_hd",
     "title": "A Sports HD",
     "category": "CricHD 1",
-    "m3u8": "https://d9.merichunidya.com:1686/hls/asportshd.m3u8?md5=wQeq0lhHAUH0-lMXiO5rgw&expires=1756917844"
+    "m3u8": "https://d1.merichunidya.com:1686/hls/asportshd.m3u8?md5=UkUoanylRlgKPTrMu3uGNw&expires=1756921404"
   },
   {
     "id": "sky_sports_cricket",
     "title": "Sky Sports Cricket",
     "category": "CricHD 1",
-    "m3u8": "https://d10.merichunidya.com:1686/hls/skyscric.m3u8?md5=iySuZNmSiakXBf-FGLDOlA&expires=1756917844"
+    "m3u8": "https://d9.merichunidya.com:1686/hls/skyscric.m3u8?md5=qZEUklCkBzo_cFQYON1J9A&expires=1756921405"
   },
   {
     "id": "sky_sports_main_event",
     "title": "Sky Sports Main Event",
     "category": "CricHD 1",
-    "m3u8": "https://d9.merichunidya.com:1686/hls/skysme.m3u8?md5=TAHOyuOWYuz_SOq_Sqk-mA&expires=1756917845"
+    "m3u8": "https://d9.merichunidya.com:1686/hls/skysme.m3u8?md5=OzT0FNdnsa4VGwxqFu15fg&expires=1756921405"
   },
   {
     "id": "tnt_1",
     "title": "TNT 1",
     "category": "CricHD 1",
-    "m3u8": "https://d3.merichunidya.com:1686/hls/bbtsp1.m3u8?md5=NSy2b0PnK17u0oXthcdjsg&expires=1756917845"
+    "m3u8": "https://d7.merichunidya.com:1686/hls/bbtsp1.m3u8?md5=Fc19frWp8oxOdQOIaQ5LPA&expires=1756921405"
   },
   {
     "id": "tnt_2",
     "title": "TNT 2",
     "category": "CricHD 1",
-    "m3u8": "https://d9.merichunidya.com:1686/hls/bbtsp2.m3u8?md5=v30amLd2zDd5d9358B4E-g&expires=1756917845"
+    "m3u8": "https://d7.merichunidya.com:1686/hls/bbtsp2.m3u8?md5=L7D4K5IPwssYHVIaPKvWcg&expires=1756921405"
   },
   {
     "id": "tnt_3",
     "title": "TNT 3",
     "category": "CricHD 1",
-    "m3u8": "https://d3.merichunidya.com:1686/hls/bbtsp3.m3u8?md5=nxlSyf9eGPRsz5wO0-QpJA&expires=1756917846"
+    "m3u8": "https://d10.merichunidya.com:1686/hls/bbtsp3.m3u8?md5=mzBgsl6vlFGXktRhxbUM9w&expires=1756921405"
   },
   {
     "id": "tnt_4",
     "title": "TNT 4",
     "category": "CricHD 1",
-    "m3u8": "https://d6.merichunidya.com:1686/hls/bbtespn.m3u8?md5=FRpM2Cc92q119U4vHGJsIA&expires=1756917846"
+    "m3u8": "https://d6.merichunidya.com:1686/hls/bbtespn.m3u8?md5=zXQQ_fhcc-Sl1IsU_2_49w&expires=1756921405"
   },
   {
     "id": "sky_cinema",
     "title": "Sky Cinema",
     "category": "CricHD 1",
-    "m3u8": "https://d5.merichunidya.com:1686/hls/skysme.m3u8?md5=L86eDeoUxvjR1iLqrUDctQ&expires=1756917850"
+    "m3u8": "https://d7.merichunidya.com:1686/hls/skysme.m3u8?md5=VFXr4iLaBS_Tt87-HwTbJQ&expires=1756921407"
   },
   {
     "id": "sky_sports_action",
     "title": "Sky Sports Action",
     "category": "CricHD 1",
-    "m3u8": "https://d5.merichunidya.com:1686/hls/skysact.m3u8?md5=QzmXlp4Y8YzBM_ZqgqWzEQ&expires=1756917850"
+    "m3u8": "https://d8.merichunidya.com:1686/hls/skysact.m3u8?md5=IO0kIkVLhx3FosqcYXH2bA&expires=1756921407"
   },
   {
     "id": "sky_sports_golf",
     "title": "Sky Sports Golf",
     "category": "CricHD 1",
-    "m3u8": "https://d6.merichunidya.com:1686/hls/skysgol.m3u8?md5=LkLMuq2Ho1jYY1cI7x7aYQ&expires=1756917850"
+    "m3u8": "https://d7.merichunidya.com:1686/hls/skysgol.m3u8?md5=POz31kaGXjg3Cks3GnKpAg&expires=1756921407"
   },
   {
     "id": "sky_sports_premier_league",
     "title": "Sky Sports Premier League",
     "category": "CricHD 1",
-    "m3u8": "https://d5.merichunidya.com:1686/hls/skysprem.m3u8?md5=DJ-6bsjb71HPQ2fSnOn5gQ&expires=1756917851"
+    "m3u8": "https://d9.merichunidya.com:1686/hls/skysprem.m3u8?md5=wtW5DVrbpvhCpAhUrhkWPQ&expires=1756921407"
   },
   {
     "id": "sky_sports_football",
     "title": "Sky Sports Football",
     "category": "CricHD 1",
-    "m3u8": "https://d1.merichunidya.com:1686/hls/skysfott.m3u8?md5=3klNwYL7dL2pW5L4Imv_CA&expires=1756917851"
+    "m3u8": "https://d4.merichunidya.com:1686/hls/skysfott.m3u8?md5=oDfIEiD0OxjOp2Qe6JUVNQ&expires=1756921407"
   },
   {
     "id": "sky_sports_plus",
     "title": "Sky Sports Plus",
     "category": "CricHD 1",
-    "m3u8": "https://d2.merichunidya.com:1686/hls/skysare.m3u8?md5=T0RFPswNgG3_06YCffEPTw&expires=1756917851"
+    "m3u8": "https://d8.merichunidya.com:1686/hls/skysare.m3u8?md5=AS9CHsZF_BrOBi6vbkFe1g&expires=1756921407"
   },
   {
     "id": "sky_sports_f1",
     "title": "Sky Sports F1",
     "category": "CricHD 1",
-    "m3u8": "https://d9.merichunidya.com:1686/hls/skysfor1.m3u8?md5=nh7tnnzU6Ta3UJBUbTBdBw&expires=1756917851"
+    "m3u8": "https://d8.merichunidya.com:1686/hls/skysfor1.m3u8?md5=eR5L2Gy4F-UspKnAeW85Tw&expires=1756921407"
   },
   {
     "id": "laliga",
     "title": "LaLiGA",
     "category": "CricHD 1",
-    "m3u8": "https://d10.merichunidya.com:1686/hls/laligauk.m3u8?md5=56crlDBLBAtfpiyWxPu9lA&expires=1756917852"
+    "m3u8": "https://d5.merichunidya.com:1686/hls/laligauk.m3u8?md5=cqTZpF9k6fv-n40IyjSaoA&expires=1756921408"
   },
   {
     "id": "premier_sports_1",
     "title": "Premier Sports 1",
     "category": "CricHD 1",
-    "m3u8": "https://d5.merichunidya.com:1686/hls/premieruk.m3u8?md5=bOtyN3Gm-hURbBDOZJvu9g&expires=1756917852"
+    "m3u8": "https://d1.merichunidya.com:1686/hls/premieruk.m3u8?md5=1GDo7-TRKSzHyueR8sTmdA&expires=1756921408"
   },
   {
     "id": "premier_sports_2",
     "title": "Premier Sports 2",
     "category": "CricHD 1",
-    "m3u8": "https://d10.merichunidya.com:1686/hls/hdchnl2.m3u8?md5=grQgj4lDBC64eVxisev1Cw&expires=1756917852"
+    "m3u8": "https://d6.merichunidya.com:1686/hls/hdchnl2.m3u8?md5=Pbn5Pz9K8oSexyuxbTduKA&expires=1756921408"
   },
   {
     "id": "super_football",
     "title": "Super Football",
     "category": "CricHD 1",
-    "m3u8": "https://d3.merichunidya.com:1686/hls/superfotball.m3u8?md5=T3v5VXJMa_y8hYIXan-Pgw&expires=1756917853"
+    "m3u8": "https://d9.merichunidya.com:1686/hls/superfotball.m3u8?md5=JHHO5H4tL7htsfCC8FjTwg&expires=1756921408"
   },
   {
     "id": "sky_sports_arena",
     "title": "Sky Sports Arena",
     "category": "CricHD 1",
-    "m3u8": "https://d4.merichunidya.com:1686/hls/skysare.m3u8?md5=WLNEdTzbUBhX1pBGfO_b1g&expires=1756917854"
+    "m3u8": "https://d5.merichunidya.com:1686/hls/skysare.m3u8?md5=CAL4zIeYMb5rhsGq_HKYmw&expires=1756921409"
   },
   {
     "id": "sky_sports_mix",
     "title": "Sky Sports Mix",
     "category": "CricHD 1",
-    "m3u8": "https://d8.merichunidya.com:1686/hls/skysmixx.m3u8?md5=ctzlC7_YOtItyPYNNYBQGQ&expires=1756917854"
+    "m3u8": "https://d5.merichunidya.com:1686/hls/skysmixx.m3u8?md5=wnQuIOzddf-gN3l6qX1iSg&expires=1756921409"
   },
   {
     "id": "sky_sports_tennis",
     "title": "Sky Sports Tennis",
     "category": "CricHD 1",
-    "m3u8": "https://d10.merichunidya.com:1686/hls/skystennis.m3u8?md5=zUiamXnG-i2mmVwfssjfFQ&expires=1756917855"
+    "m3u8": "https://d5.merichunidya.com:1686/hls/skystennis.m3u8?md5=Q8L6PeBvA2PhjpVWu40lmw&expires=1756921409"
   },
   {
     "id": "btv",
@@ -640,54 +640,5 @@
     "title": "Al Jazeera",
     "category": "Entertainment",
     "m3u8": "https://tvsen6.aynaott.com/aljazeera/index.m3u8"
-  },
-  {
-    "id": "zimbabwe-vs-sri-lanka",
-    "m3u8": "https://in-mc-fdlive.fancode.com/mumbai/133667_english_hls_0bf919b0a931527ta-di_h264/index.m3u8",
-    "title": "Zimbabwe vs Sri Lanka (Sri Lanka tour of Zimbabwe, 2025)",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Tour-of-Zimbabwe-T20-old-match-card.jpg",
-    "category": "Fancode-Cricket"
-  },
-  {
-    "id": "bangladesh-vs-netherlands",
-    "m3u8": "https://in-mc-fdlive.fancode.com/mumbai/135851_english_hls_44391d194464856ta-di_h264/index.m3u8",
-    "title": "Bangladesh vs Netherlands (Netherlands tour of Bangladesh, 2025)",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/BANvsNED_Old_match-card_2.jpg",
-    "category": "Fancode-Cricket"
-  },
-  {
-    "id": "aries-kollam-sailors-vs-kochi-blue-tigers",
-    "m3u8": "https://in-mc-fdlive.fancode.com/mumbai/133903_english_hls_87ce213db773137ta-di_h264/index.m3u8",
-    "title": "Aries Kollam Sailors vs Kochi Blue Tigers (Kerala Cricket League, 2025)",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/133903_5600_AKS_KBT_fc-Web_1756713694118.jpg",
-    "category": "Fancode-Cricket"
-  },
-  {
-    "id": "kenya-women-vs-uganda-women",
-    "m3u8": "https://in-mc-fdlive.fancode.com/mumbai/133775_english_hls_6bc693e62a49385ta-di_h264/index.m3u8",
-    "title": "Kenya Women vs Uganda Women (ICC Women's T20 WC Africa Qualifier Division 1)",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_match-card.jpg",
-    "category": "Fancode-Cricket"
-  },
-  {
-    "id": "sharjah-warriorz-development-vs-desert-vipers-development",
-    "m3u8": "https://in-mc-fdlive.fancode.com/mumbai/135813_english_hls_c09974e4d849381ta-di_h264/index.m3u8",
-    "title": "Sharjah Warriorz Development vs Desert Vipers Development (DP World ILT20 Development Tournament, 2025)",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Sharjah-Warriorz-Development-VS-Desert-Vipers-Development_old.jpg",
-    "category": "Fancode-Cricket"
-  },
-  {
-    "id": "nigeria-women-vs-zimbabwe-women",
-    "m3u8": "https://in-mc-fdlive.fancode.com/mumbai/133776_english_hls_352280730184047ta-di_h264/index.m3u8",
-    "title": "Nigeria Women vs Zimbabwe Women (ICC Women's T20 WC Africa Qualifier Division 1)",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Women's-T20-WC-Africa-Qualifier-Division-1_match-card.jpg",
-    "category": "Fancode-Cricket"
-  },
-  {
-    "id": "seychelles-vs-gabon",
-    "m3u8": "https://in-mc-fdlive.fancode.com/mumbai/136639_english_hls_a49803190366730ta-di_h264/index.m3u8",
-    "title": "Seychelles vs Gabon (CAF World Cup Qualifiers)",
-    "logo": "https://www.fancode.com/skillup-uploads/cms-media/136639_3741_SEY_GAB_Fc-Web.jpg",
-    "category": "Fancode-Football"
   }
 ]
