@@ -3,7 +3,7 @@ name: Update TV JSON
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 3 * * *'
+    - cron: '0 * * * *'
 
 permissions:
   contents: write
@@ -52,7 +52,7 @@ jobs:
       - name: Commit changes
         run: |
           git add -A
-          git commit -m "Update tv1.json [skip ci]" || echo "No changes to commit"
+          git commit -m "Update merge.json [skip ci]" || echo "No changes to commit"
 
       - name: Push changes
         if: success()
