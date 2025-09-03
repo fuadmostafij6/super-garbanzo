@@ -1,4 +1,64 @@
 [
+{
+    "id": "star_sports_1",
+    "m3u8": "https://d5.merichunidya.com:1686/hls/star1in.m3u8?md5=leabQotD43s1vAe_63O_QA&expires=1756896918",
+    "title": "Star Sports 1",
+    "category": "Sports"
+  },
+  {
+    "id": "star_sports_1_hindi",
+    "m3u8": "https://d10.merichunidya.com:1686/hls/starhindi.m3u8?md5=nTknH3fl5plJ6ls0-7RwvA&expires=1756896919",
+    "title": "Star Sports 1 Hindi",
+    "category": "Sports"
+  },
+  {
+    "id": "ptv_sports",
+    "m3u8": "https://d9.merichunidya.com:1686/hls/ptvpk.m3u8?md5=ozV_d-RqlsAbjJ6P_CbfYg&expires=1756896919",
+    "title": "PTV Sports",
+    "category": "Sports"
+  },
+  {
+    "id": "willow_hd",
+    "m3u8": "https://d5.merichunidya.com:1686/hls/willowusa.m3u8?md5=Wydoa4chkx11vBAHsnMn6g&expires=1756896919",
+    "title": "Willow HD",
+    "category": "Sports"
+  },
+  {
+    "id": "willow_hd_2",
+    "m3u8": "https://d6.merichunidya.com:1686/hls/willowextra.m3u8?md5=REpnUqO8EDVpqir6m8LxrQ&expires=1756896919",
+    "title": "Willow HD 2",
+    "category": "Sports"
+  },
+  {
+    "id": "ten_sports",
+    "m3u8": "https://d6.merichunidya.com:1686/hls/tenspk.m3u8?md5=MtMfbUnmZjTNNEk6NRv0JQ&expires=1756896919",
+    "title": "Ten Sports",
+    "category": "Sports"
+  },
+  {
+    "id": "a_sports_hd",
+    "m3u8": "https://d1.merichunidya.com:1686/hls/asportshd.m3u8?md5=a3oz33BSW2nuWcrN6kws5w&expires=1756896919",
+    "title": "A Sports HD",
+    "category": "Sports"
+  },
+  {
+    "id": "sky_sports_cricket",
+    "m3u8": "https://d2.merichunidya.com:1686/hls/skyscric.m3u8?md5=-j3xVvFVQ9Pf8cHQjLK2_w&expires=1756896919",
+    "title": "Sky Sports Cricket",
+    "category": "Sports"
+  },
+  {
+    "id": "sky_sports_main_event",
+    "m3u8": "https://d6.merichunidya.com:1686/hls/skysme.m3u8?md5=FktMwo_icOvgFuBNPdBWtA&expires=1756896920",
+    "title": "Sky Sports Main Event",
+    "category": "Sports"
+  },
+  {
+    "id": "tnt_2",
+    "m3u8": "https://d1.merichunidya.com:1686/hls/bbtsp2.m3u8?md5=0PRpN0hSehhfpH4Z_3OV1Q&expires=1756896920",
+    "title": "TNT 2",
+    "category": "Sports"
+  },
   {
     "id": "btv",
     "m3u8": "https://tvsen6.aynaott.com/btvhd/index.m3u8",
