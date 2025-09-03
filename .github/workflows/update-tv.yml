@@ -26,6 +26,15 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then
+            python -m pip install -r requirements.txt
+          else
+            python -m pip install requests
+          fi
+
       - name: Run converter
         run: |
           python --version
