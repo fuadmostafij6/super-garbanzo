@@ -1,0 +1,656 @@
+[
+  {
+    "id": "star_sports_1",
+    "title": "Star Sports 1",
+    "category": "CricHD 1",
+    "m3u8": "https://d8.merichunidya.com:1686/hls/star1in.m3u8?md5=TxzXru4q4y7yN8g8XJfjhw&expires=1756916673"
+  },
+  {
+    "id": "star_sports_1_hindi",
+    "title": "Star Sports 1 Hindi",
+    "category": "CricHD 1",
+    "m3u8": "https://d6.merichunidya.com:1686/hls/starhindi.m3u8?md5=8rbnwAzCiKDHquE-JplZpw&expires=1756916673"
+  },
+  {
+    "id": "ptv_sports",
+    "title": "PTV Sports",
+    "category": "CricHD 1",
+    "m3u8": "https://d3.merichunidya.com:1686/hls/ptvpk.m3u8?md5=xJVpwM-loxfSWAB26Td57Q&expires=1756916674"
+  },
+  {
+    "id": "willow_hd",
+    "title": "Willow HD",
+    "category": "CricHD 1",
+    "m3u8": "https://d3.merichunidya.com:1686/hls/willowusa.m3u8?md5=8d6iqtE-D9jLTOR4rVqI6Q&expires=1756916674"
+  },
+  {
+    "id": "willow_hd_2",
+    "title": "Willow HD 2",
+    "category": "CricHD 1",
+    "m3u8": "https://d3.merichunidya.com:1686/hls/willowextra.m3u8?md5=SasTzWa4lRCiJJA46KaNrA&expires=1756916675"
+  },
+  {
+    "id": "ten_sports",
+    "title": "Ten Sports",
+    "category": "CricHD 1",
+    "m3u8": "https://d2.merichunidya.com:1686/hls/tenspk.m3u8?md5=UaTDmGyGJFXavhhcXA6Tig&expires=1756916675"
+  },
+  {
+    "id": "a_sports_hd",
+    "title": "A Sports HD",
+    "category": "CricHD 1",
+    "m3u8": "https://d4.merichunidya.com:1686/hls/asportshd.m3u8?md5=_Qmxjq748NaCcEv5EIWFKg&expires=1756916675"
+  },
+  {
+    "id": "sky_sports_cricket",
+    "title": "Sky Sports Cricket",
+    "category": "CricHD 1",
+    "m3u8": "https://d6.merichunidya.com:1686/hls/skyscric.m3u8?md5=i--INb2wVHCyg4kWr39WDA&expires=1756916676"
+  },
+  {
+    "id": "sky_sports_main_event",
+    "title": "Sky Sports Main Event",
+    "category": "CricHD 1",
+    "m3u8": "https://d1.merichunidya.com:1686/hls/skysme.m3u8?md5=f9JL33NSrrNF8AO_Soyhtw&expires=1756916676"
+  },
+  {
+    "id": "tnt_1",
+    "title": "TNT 1",
+    "category": "CricHD 1",
+    "m3u8": "https://d1.merichunidya.com:1686/hls/bbtsp1.m3u8?md5=bW0SBmc0easy5KJAuOkl-w&expires=1756916677"
+  },
+  {
+    "id": "tnt_2",
+    "title": "TNT 2",
+    "category": "CricHD 1",
+    "m3u8": "https://d9.merichunidya.com:1686/hls/bbtsp2.m3u8?md5=gaY5PO7msDYlpiOxuVGgIg&expires=1756916677"
+  },
+  {
+    "id": "tnt_3",
+    "title": "TNT 3",
+    "category": "CricHD 1",
+    "m3u8": "https://d1.merichunidya.com:1686/hls/bbtsp3.m3u8?md5=spUcUBxtq-iRcrxZ_qjtJg&expires=1756916677"
+  },
+  {
+    "id": "tnt_4",
+    "title": "TNT 4",
+    "category": "CricHD 1",
+    "m3u8": "https://d2.merichunidya.com:1686/hls/bbtespn.m3u8?md5=8VqNKhBSg8yaEs2vq1EZmQ&expires=1756916678"
+  },
+  {
+    "id": "sky_cinema",
+    "title": "Sky Cinema",
+    "category": "CricHD 1",
+    "m3u8": "https://d10.merichunidya.com:1686/hls/skysme.m3u8?md5=ktDj0g4MDou_4xtN0_aEjg&expires=1756916681"
+  },
+  {
+    "id": "sky_sports_action",
+    "title": "Sky Sports Action",
+    "category": "CricHD 1",
+    "m3u8": "https://d4.merichunidya.com:1686/hls/skysact.m3u8?md5=nwgu508aswTjSo0NOxniCQ&expires=1756916681"
+  },
+  {
+    "id": "sky_sports_golf",
+    "title": "Sky Sports Golf",
+    "category": "CricHD 1",
+    "m3u8": "https://d6.merichunidya.com:1686/hls/skysgol.m3u8?md5=h_rDLQK31dGqJVd9oD0gCw&expires=1756916682"
+  },
+  {
+    "id": "sky_sports_premier_league",
+    "title": "Sky Sports Premier League",
+    "category": "CricHD 1",
+    "m3u8": "https://d7.merichunidya.com:1686/hls/skysprem.m3u8?md5=QdAHfp7XktD3cDtps78bZg&expires=1756916682"
+  },
+  {
+    "id": "sky_sports_football",
+    "title": "Sky Sports Football",
+    "category": "CricHD 1",
+    "m3u8": "https://d7.merichunidya.com:1686/hls/skysfott.m3u8?md5=oJ62gWmLjJTqJCENXXS0Ug&expires=1756916682"
+  },
+  {
+    "id": "sky_sports_plus",
+    "title": "Sky Sports Plus",
+    "category": "CricHD 1",
+    "m3u8": "https://d7.merichunidya.com:1686/hls/skysare.m3u8?md5=i-0SJYwOnrxlgdpXWSwCAA&expires=1756916683"
+  },
+  {
+    "id": "sky_sports_f1",
+    "title": "Sky Sports F1",
+    "category": "CricHD 1",
+    "m3u8": "https://d2.merichunidya.com:1686/hls/skysfor1.m3u8?md5=7rQkh5prdqGVXxCMBsuhkw&expires=1756916683"
+  },
+  {
+    "id": "laliga",
+    "title": "LaLiGA",
+    "category": "CricHD 1",
+    "m3u8": "https://d6.merichunidya.com:1686/hls/laligauk.m3u8?md5=TqYv1W-VTF7gRXjspOXxZw&expires=1756916684"
+  },
+  {
+    "id": "premier_sports_1",
+    "title": "Premier Sports 1",
+    "category": "CricHD 1",
+    "m3u8": "https://d3.merichunidya.com:1686/hls/premieruk.m3u8?md5=Q2IjxFXwEAT-FLy7GNDwWg&expires=1756916684"
+  },
+  {
+    "id": "premier_sports_2",
+    "title": "Premier Sports 2",
+    "category": "CricHD 1",
+    "m3u8": "https://d5.merichunidya.com:1686/hls/hdchnl2.m3u8?md5=RIhgCqyY-rvpCBZ8V7wcbw&expires=1756916684"
+  },
+  {
+    "id": "super_football",
+    "title": "Super Football",
+    "category": "CricHD 1",
+    "m3u8": "https://d9.merichunidya.com:1686/hls/superfotball.m3u8?md5=7mxAXyAAu94e8NZqjNGP5A&expires=1756916685"
+  },
+  {
+    "id": "sky_sports_arena",
+    "title": "Sky Sports Arena",
+    "category": "CricHD 1",
+    "m3u8": "https://d9.merichunidya.com:1686/hls/skysare.m3u8?md5=GE7I3yvU2qBt2FZoQ7-mgw&expires=1756916686"
+  },
+  {
+    "id": "sky_sports_mix",
+    "title": "Sky Sports Mix",
+    "category": "CricHD 1",
+    "m3u8": "https://d7.merichunidya.com:1686/hls/skysmixx.m3u8?md5=uLHFVTpSYLW5JSuz7WaFoA&expires=1756916687"
+  },
+  {
+    "id": "sky_sports_tennis",
+    "title": "Sky Sports Tennis",
+    "category": "CricHD 1",
+    "m3u8": "https://d10.merichunidya.com:1686/hls/skystennis.m3u8?md5=QW1IVnPTg8SV3cooBBHRfA&expires=1756916687"
+  },
+  {
+    "id": "btv",
+    "title": "BTv",
+    "category": "Bangladeshi",
+    "m3u8": "https://tvsen6.aynaott.com/btvhd/index.m3u8"
+  },
+  {
+    "id": "btvctg",
+    "title": "BTv CTG",
+    "category": "Bangladeshi",
+    "m3u8": "https://tvsen6.aynaott.com/btvctg/index.m3u8"
+  },
+  {
+    "id": "btvbdnews",
+    "title": "BTv News",
+    "category": "Bangladeshi",
+    "m3u8": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "id": "channel9hd",
+    "title": "Channel 9 HD",
+    "category": "Bangladeshi",
+    "m3u8": "https://tvsen6.aynaott.com/channel9/index.m3u8"
+  },
+  {
+    "id": "somoytv",
+    "title": "Somoy TV",
+    "category": "Bangladeshi",
+    "m3u8": "https://tvsen6.aynaott.com/somoytv/index.m3u8"
+  },
+  {
+    "id": "jamunatv",
+    "title": "Jamuna TV",
+    "category": "Bangladeshi",
+    "m3u8": "https://tvsen6.aynaott.com/jamunatv/index.m3u8"
+  },
+  {
+    "id": "ekattortv",
+    "title": "Ekattor TV",
+    "category": "Bangladeshi",
+    "m3u8": "https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8"
+  },
+  {
+    "id": "channel24",
+    "title": "Channel 24",
+    "category": "Bangladeshi",
+    "m3u8": "https://tvsen6.aynaott.com/channel24/index.m3u8"
+  },
+  {
+    "id": "independenttv",
+    "title": "Independent TV",
+    "category": "Bangladeshi",
+    "m3u8": "https://tvsen6.aynaott.com/independenttv/index.m3u8"
+  },
+  {
+    "id": "atnnews",
+    "title": "ATN News",
+    "category": "Bangladeshi",
+    "m3u8": "https://tvsen6.aynaott.com/atnnews/index.m3u8"
+  },
+  {
+    "id": "dbcnews",
+    "title": "DBC News",
+    "category": "Bangladeshi",
+    "m3u8": "https://tvsen6.aynaott.com/dbcnews/index.m3u8"
+  },
+  {
+    "id": "news24",
+    "title": "News 24",
+    "category": "Bangladeshi",
+    "m3u8": "https://tvsen6.aynaott.com/news24/index.m3u8"
+  },
+  {
+    "id": "ekhontv",
+    "title": "Ekhon TV",
+    "category": "Bangladeshi",
+    "m3u8": "https://tvsen6.aynaott.com/ekhontv/index.m3u8"
+  },
+  {
+    "id": "etv",
+    "title": "ETV",
+    "category": "Bangladeshi",
+    "m3u8": "https://tvsen6.aynaott.com/etv/index.m3u8"
+  },
+  {
+    "id": "globaltvhd",
+    "title": "Global TV HD",
+    "category": "Bangladeshi",
+    "m3u8": "https://tvsen6.aynaott.com/globaltvhd/index.m3u8"
+  },
+  {
+    "id": "nexustv",
+    "title": "Nexus TV HD",
+    "category": "Bangladeshi",
+    "m3u8": "https://tvsen6.aynaott.com/nexustv/index.m3u8"
+  },
+  {
+    "id": "channeli",
+    "title": "Channel I",
+    "category": "Bangladeshi",
+    "m3u8": "https://tvsen6.aynaott.com/channeli/index.m3u8"
+  },
+  {
+    "id": "atnbangla",
+    "title": "ATN Bangla",
+    "category": "Bangladeshi",
+    "m3u8": "https://tvsen5.aynaott.com/atnbangla/index.m3u8"
+  },
+  {
+    "id": "starjalsha",
+    "title": "Star Jalsha",
+    "category": "Indian Bangla",
+    "m3u8": "https://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.ts.m3u8"
+  },
+  {
+    "id": "jalshamovieshd",
+    "title": "Jalsha Movies HD",
+    "category": "Indian Bangla",
+    "m3u8": "https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8"
+  },
+  {
+    "id": "zeebangla",
+    "title": "Zee Bangla",
+    "category": "Indian Bangla",
+    "m3u8": "https://tvsen5.aynaott.com/PNEb3v2q6GBk/index.m3u8"
+  },
+  {
+    "id": "zeebanglacinema",
+    "title": "Zee Bangla Cinema",
+    "category": "Indian Bangla",
+    "m3u8": "https://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8"
+  },
+  {
+    "id": "colorsbangla",
+    "title": "Colors Bangla",
+    "category": "Indian Bangla",
+    "m3u8": "https://tvsen5.aynaott.com/u3LkNQ7UHhFX/index.m3u8"
+  },
+  {
+    "id": "colorsbanglacinema",
+    "title": "Colors Bangla Cinema",
+    "category": "Indian Bangla",
+    "m3u8": "https://live.dinesh29.com.np/stream/jiotvplus/colorsbanglacinema/master.m3u8"
+  },
+  {
+    "id": "enterr10bangla",
+    "title": "Enterr 10 Bangla",
+    "category": "Indian Bangla",
+    "m3u8": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8"
+  },
+  {
+    "id": "akash8",
+    "title": "Akash 8",
+    "category": "Indian Bangla",
+    "m3u8": "https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/tracks-v1a1/mono.ts.m3u8"
+  },
+  {
+    "id": "ruposhibangla",
+    "title": "Ruposhi Bangla",
+    "category": "Indian Bangla",
+    "m3u8": "https://tvsen6.aynaott.com/RupshiBangla/index.m3u8"
+  },
+  {
+    "id": "banglaplus",
+    "title": "Bangla +",
+    "category": "Indian Bangla",
+    "m3u8": "https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8"
+  },
+  {
+    "id": "kolkatatv",
+    "title": "Kolkata Tv",
+    "category": "Indian Bangla",
+    "m3u8": "https://tvsen6.aynaott.com/kolkatatv/index.m3u8"
+  },
+  {
+    "id": "R_Bangla",
+    "title": "R Bangla",
+    "category": "Indian Bangla",
+    "m3u8": "https://tvsen5.aynaott.com/R_Bangla/index.m3u8"
+  },
+  {
+    "id": "zee24ghonta",
+    "title": "Zee 24 Ghonta",
+    "category": "Indian Bangla",
+    "m3u8": "https://tvsen6.aynaott.com/zee24/index.m3u8"
+  },
+  {
+    "id": "newstimebangla",
+    "title": "News Time Bangla",
+    "category": "Indian Bangla",
+    "m3u8": "https://tvsen6.aynaott.com/NewsTime/index.m3u8"
+  },
+  {
+    "id": "sunbangla",
+    "title": "Sun Bangla",
+    "category": "Indian Bangla",
+    "m3u8": "https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8"
+  },
+  {
+    "id": "sangeetbangla",
+    "title": "Sangeet Bangla HD",
+    "category": "Music",
+    "m3u8": "https://tvsen6.aynaott.com/SangeetBangla/index.m3u8"
+  },
+  {
+    "id": "HiDost",
+    "title": "Hi Dost",
+    "category": "Kids",
+    "m3u8": "https://tvsen6.aynaott.com/HiDost/index.m3u8"
+  },
+  {
+    "id": "peacetvbangla",
+    "title": "Peace TV Bangla",
+    "category": "Islamic",
+    "m3u8": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8"
+  },
+  {
+    "id": "peacetvurduhd",
+    "title": "Peace TV Urdu HD",
+    "category": "Islamic",
+    "m3u8": "https://tvsen6.aynaott.com/PeaceTVUrduHD/index.m3u8"
+  },
+  {
+    "id": "iqrabangla",
+    "title": "Iqra Bangla",
+    "category": "Islamic",
+    "m3u8": "https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8"
+  },
+  {
+    "id": "madanitv",
+    "title": "Madani TV",
+    "category": "Islamic",
+    "m3u8": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8"
+  },
+  {
+    "id": "wwe",
+    "title": "WWE",
+    "category": "Sports",
+    "m3u8": "https://smart.bengaldigital.live/WWE/index.m3u8"
+  },
+  {
+    "id": "starsports1",
+    "title": "Star Sports 1",
+    "category": "Sports",
+    "m3u8": "https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8"
+  },
+  {
+    "id": "starsports2",
+    "title": "Star Sports 2",
+    "category": "Sports",
+    "m3u8": "https://tvsen5.aynaott.com/xSZ52snq4z3N/index.m3u8"
+  },
+  {
+    "id": "EuroSport1",
+    "title": "Euro Sport 1",
+    "category": "Sports",
+    "m3u8": " http://185.189.225.157/EuroSport1/index.m3u8"
+  },
+  {
+    "id": "EuroSport2",
+    "title": "Euro Sport 2",
+    "category": "Sports",
+    "m3u8": " http://185.189.225.157/EuroSport2/index.m3u8"
+  },
+  {
+    "id": "skycricket",
+    "title": "Sky Cricket",
+    "category": "Sports",
+    "m3u8": " http://195.181.161.132/skycricket/index.m3u8"
+  },
+  {
+    "id": "asports",
+    "title": "A Sports",
+    "category": "Sports",
+    "m3u8": "https://tvsen7.aynaott.com/asports-bkp/index.m3u8"
+  },
+  {
+    "id": "ptvsports",
+    "title": "Ptv Sports",
+    "category": "Sports",
+    "m3u8": "https://tvsen5.aynaott.com/Ptvsports/index.m3u8"
+  },
+  {
+    "id": "tencricketdrm",
+    "title": "Ten Cricket",
+    "category": "Sports",
+    "m3u8": "https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/index.m3u8"
+  },
+  {
+    "id": "willowhd",
+    "title": "Willow HD",
+    "category": "Sports",
+    "m3u8": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
+  },
+  {
+    "id": "btSport1",
+    "title": "BT Sport 1",
+    "category": "Sports",
+    "m3u8": "https://tvsen6.aynaott.com/btSport1/index.m3u8"
+  },
+  {
+    "id": "btSport2",
+    "title": "BT Sport 2",
+    "category": "Sports",
+    "m3u8": "https://tvsen6.aynaott.com/btSport2/index.m3u8"
+  },
+  {
+    "id": "mastiii",
+    "title": "Mastiii",
+    "category": "Music",
+    "m3u8": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8"
+  },
+  {
+    "id": "9xm",
+    "title": "9XM",
+    "category": "Music",
+    "m3u8": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/a731c680-6a62-4174-bc98-186fe654724a/0.m3u8"
+  },
+  {
+    "id": "MusicIndia",
+    "title": "Music India",
+    "category": "Music",
+    "m3u8": "https://tvsen6.aynaott.com/MusicIndia/index.m3u8"
+  },
+  {
+    "id": "b4umusic",
+    "title": "B4U Music",
+    "category": "Music",
+    "m3u8": "https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8"
+  },
+  {
+    "id": "joomusic",
+    "title": "Joom Music",
+    "category": "Music",
+    "m3u8": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8"
+  },
+  {
+    "id": "dhoombangla",
+    "title": "Dhoom Bangla",
+    "category": "Music",
+    "m3u8": "https://tvsen6.aynaott.com/dhoom/index.m3u8"
+  },
+  {
+    "id": "msports",
+    "title": "M Sports",
+    "category": "Sports",
+    "m3u8": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/matribhumitv.stream/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "id": "adasports",
+    "title": "ada Sports",
+    "category": "Sports",
+    "m3u8": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/02.m3u8"
+  },
+  {
+    "id": "starsportsselect1",
+    "title": "Star Sports Select 1",
+    "category": "Sports",
+    "m3u8": "https://tvsen6.aynaott.com/spsel1/index.m3u8"
+  },
+  {
+    "id": "ERTSports1",
+    "title": "ERT Sports 1",
+    "category": "Sports",
+    "m3u8": "https://tvsen6.aynaott.com/ERTSports1/index.m3u8"
+  },
+  {
+    "id": "DubaiSports2",
+    "title": "Dubai Sports 2",
+    "category": "Sports",
+    "m3u8": "https://tvsen6.aynaott.com/DubaiSports2/index.m3u8"
+  },
+  {
+    "id": "CBSSportsNetwork",
+    "title": "CBS Sports Network",
+    "category": "Sports",
+    "m3u8": "https://tvsen6.aynaott.com/CBSSportsNetwork/index.m3u8"
+  },
+  {
+    "id": "sportsfirsttv",
+    "title": "Sports First TV",
+    "category": "Sports",
+    "m3u8": "https://tvsen6.aynaott.com/sportsfirsttv/index.m3u8"
+  },
+  {
+    "id": "CricketGold",
+    "title": "Cricket Gold",
+    "category": "Sports",
+    "m3u8": "https://tvsen6.aynaott.com/CricketGold/index.m3u8"
+  },
+  {
+    "id": "cartoonnetwork",
+    "title": "Cartoon Network",
+    "category": "Kids",
+    "m3u8": "https://tvsen5.aynaott.com/cartoonnetwork/index.fmp4.m3u8"
+  },
+  {
+    "id": "durontotv",
+    "title": "Duronto TV",
+    "category": "Kids",
+    "m3u8": "https://tvsen4.aynaott.com/durontotv/index.m3u8"
+  },
+  {
+    "id": "nicktoons",
+    "title": "Nick Toons",
+    "category": "Kids",
+    "m3u8": "https://tvsen5.aynaott.com/nicktoons/index.fmp4.m3u8"
+  },
+  {
+    "id": "disneyxd",
+    "title": "Disney XD",
+    "category": "Kids",
+    "m3u8": "https://tvsen5.aynaott.com/disneyxd/index.m3u8"
+  },
+  {
+    "id": "nickjr",
+    "title": "Nick Jr",
+    "category": "Kids",
+    "m3u8": "https://tvsen5.aynaott.com/nickjr/index.fmp4.m3u8"
+  },
+  {
+    "id": "familyjr",
+    "title": "Family Jr",
+    "category": "Kids",
+    "m3u8": "https://tvsen5.aynaott.com/familyjr/index.m3u8"
+  },
+  {
+    "id": "discovery_hd_bangla",
+    "title": "Discovery HD Bangla",
+    "category": "Entertainment",
+    "m3u8": "https://tvsen6.aynaott.com/discovery_hd_bangla/index.m3u8"
+  },
+  {
+    "id": "animal_planet_hd",
+    "title": "Animal Planet HD",
+    "category": "Entertainment",
+    "m3u8": "https://tvsen6.aynaott.com/animal_planet_hd/index.m3u8"
+  },
+  {
+    "id": "travelxp",
+    "title": "Travel XP",
+    "category": "Entertainment",
+    "m3u8": "https://tvsen6.aynaott.com/travelxp/index.m3u8"
+  },
+  {
+    "id": "sony",
+    "title": "SONY HD",
+    "category": "Entertainment",
+    "m3u8": "https://tvsen5.aynaott.com/Wfn4bVp3dLgA/index.m3u8"
+  },
+  {
+    "id": "b4umovies",
+    "title": "B4U Movies",
+    "category": "Entertainment",
+    "m3u8": "https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8"
+  },
+  {
+    "id": "ManoranjanMovies",
+    "title": "Manoranjan Movies",
+    "category": "Entertainment",
+    "m3u8": "https://tvsen6.aynaott.com/ManoranjanMovies/index.m3u8"
+  },
+  {
+    "id": "mtv",
+    "title": "MTV",
+    "category": "Entertainment",
+    "m3u8": "https://tvsen6.aynaott.com/mtv/index.m3u8"
+  },
+  {
+    "id": "dangal2",
+    "title": "Dangal 2",
+    "category": "Entertainment",
+    "m3u8": "https://tvsen6.aynaott.com/Dangal2/index.m3u8"
+  },
+  {
+    "id": "dwnews",
+    "title": "DW News",
+    "category": "Entertainment",
+    "m3u8": "https://tvsen6.aynaott.com/dwnews/index.m3u8"
+  },
+  {
+    "id": "cnn",
+    "title": "CNN",
+    "category": "Entertainment",
+    "m3u8": "https://tvsen6.aynaott.com/cnn/index.m3u8"
+  },
+  {
+    "id": "aljazeera",
+    "title": "Al Jazeera",
+    "category": "Entertainment",
+    "m3u8": "https://tvsen6.aynaott.com/aljazeera/index.m3u8"
+  }
+]
