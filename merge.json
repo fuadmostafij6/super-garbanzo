@@ -3,163 +3,163 @@
     "id": "star_sports_1",
     "title": "Star Sports 1",
     "category": "CricHD 1",
-    "m3u8": "https://d4.merichunidya.com:1686/hls/star1in.m3u8?md5=-sxjQliCTHcpYyc8kFQ5mg&expires=1756935587"
+    "m3u8": "https://d10.merichunidya.com:1686/hls/star1in.m3u8?md5=la9wGGTmcq79MlL4PXewoA&expires=1756939362"
   },
   {
     "id": "star_sports_1_hindi",
     "title": "Star Sports 1 Hindi",
     "category": "CricHD 1",
-    "m3u8": "https://d1.merichunidya.com:1686/hls/starhindi.m3u8?md5=kFD5Qu6puTzUgoJSC9zrrA&expires=1756935587"
+    "m3u8": "https://d9.merichunidya.com:1686/hls/starhindi.m3u8?md5=2ijw3882JnZqHw1ziohIIg&expires=1756939362"
   },
   {
     "id": "ptv_sports",
     "title": "PTV Sports",
     "category": "CricHD 1",
-    "m3u8": "https://d7.merichunidya.com:1686/hls/ptvpk.m3u8?md5=p1MPkX504Bg4IPDLg-K64A&expires=1756935588"
+    "m3u8": "https://d7.merichunidya.com:1686/hls/ptvpk.m3u8?md5=OlXJehMfIjwV9ZmhRR2Oaw&expires=1756939362"
   },
   {
     "id": "willow_hd",
     "title": "Willow HD",
     "category": "CricHD 1",
-    "m3u8": "https://d6.merichunidya.com:1686/hls/willowusa.m3u8?md5=yGj-wbFolGqMqXuPFx-BIw&expires=1756935588"
+    "m3u8": "https://d10.merichunidya.com:1686/hls/willowusa.m3u8?md5=c632130OUAqs45thAsy5UQ&expires=1756939362"
   },
   {
     "id": "willow_hd_2",
     "title": "Willow HD 2",
     "category": "CricHD 1",
-    "m3u8": "https://d10.merichunidya.com:1686/hls/willowextra.m3u8?md5=o1lkccWaRb40kv6Mw6_-TQ&expires=1756935588"
+    "m3u8": "https://d9.merichunidya.com:1686/hls/willowextra.m3u8?md5=hFDPRDZjaM8sOvJE5boyGg&expires=1756939362"
   },
   {
     "id": "ten_sports",
     "title": "Ten Sports",
     "category": "CricHD 1",
-    "m3u8": "https://d8.merichunidya.com:1686/hls/tenspk.m3u8?md5=p9IhUzNo5ZwRIp7vABr0_Q&expires=1756935588"
+    "m3u8": "https://d3.merichunidya.com:1686/hls/tenspk.m3u8?md5=_aEHigFjwfqK0aBWODp_cA&expires=1756939363"
   },
   {
     "id": "a_sports_hd",
     "title": "A Sports HD",
     "category": "CricHD 1",
-    "m3u8": "https://d7.merichunidya.com:1686/hls/asportshd.m3u8?md5=boBmP35GeoKkfBQ2M525Pw&expires=1756935589"
+    "m3u8": "https://d7.merichunidya.com:1686/hls/asportshd.m3u8?md5=YcXrAg70EGaH3ZdjyorvGg&expires=1756939363"
   },
   {
     "id": "sky_sports_cricket",
     "title": "Sky Sports Cricket",
     "category": "CricHD 1",
-    "m3u8": "https://d6.merichunidya.com:1686/hls/skyscric.m3u8?md5=cSsKf1yC0TPf-wijzXAXJg&expires=1756935589"
+    "m3u8": "https://d3.merichunidya.com:1686/hls/skyscric.m3u8?md5=UXIhRo26P77yV-8Km1g2ag&expires=1756939363"
   },
   {
     "id": "sky_sports_main_event",
     "title": "Sky Sports Main Event",
     "category": "CricHD 1",
-    "m3u8": "https://d7.merichunidya.com:1686/hls/skysme.m3u8?md5=Lx1zZbaP8n__8jG3cfpH-g&expires=1756935589"
+    "m3u8": "https://d4.merichunidya.com:1686/hls/skysme.m3u8?md5=lwsaYZBL3RADpZwrKlLuHg&expires=1756939364"
   },
   {
     "id": "tnt_1",
     "title": "TNT 1",
     "category": "CricHD 1",
-    "m3u8": "https://d5.merichunidya.com:1686/hls/bbtsp1.m3u8?md5=aeFbVAw6P0DV07DJu8MnTw&expires=1756935590"
+    "m3u8": "https://d8.merichunidya.com:1686/hls/bbtsp1.m3u8?md5=aZahfsQyiRZ8P4Zgfb4I2g&expires=1756939364"
   },
   {
     "id": "tnt_2",
     "title": "TNT 2",
     "category": "CricHD 1",
-    "m3u8": "https://d4.merichunidya.com:1686/hls/bbtsp2.m3u8?md5=vvasKtKqLVucgacn5_zUag&expires=1756935590"
+    "m3u8": "https://d6.merichunidya.com:1686/hls/bbtsp2.m3u8?md5=wGlmNBjPH1vWOdANcTYM2Q&expires=1756939364"
   },
   {
     "id": "tnt_3",
     "title": "TNT 3",
     "category": "CricHD 1",
-    "m3u8": "https://d8.merichunidya.com:1686/hls/bbtsp3.m3u8?md5=C0hravAkZzNOVSbCaeqbJQ&expires=1756935590"
+    "m3u8": "https://d1.merichunidya.com:1686/hls/bbtsp3.m3u8?md5=WSBGz8bCjOerdmHeYeiZsQ&expires=1756939364"
   },
   {
     "id": "tnt_4",
     "title": "TNT 4",
     "category": "CricHD 1",
-    "m3u8": "https://d7.merichunidya.com:1686/hls/bbtespn.m3u8?md5=zv8DLKy9fYAYhZEm08aLOA&expires=1756935591"
+    "m3u8": "https://d8.merichunidya.com:1686/hls/bbtespn.m3u8?md5=GABeLFAncxSCWr7brMahjg&expires=1756939365"
   },
   {
     "id": "sky_cinema",
     "title": "Sky Cinema",
     "category": "CricHD 1",
-    "m3u8": "https://d3.merichunidya.com:1686/hls/skysme.m3u8?md5=rj-BBVkYW3S527NJlGocdA&expires=1756935593"
+    "m3u8": "https://d10.merichunidya.com:1686/hls/skysme.m3u8?md5=ykvR0hji2OwlOn-gJ_vBrg&expires=1756939368"
   },
   {
     "id": "sky_sports_action",
     "title": "Sky Sports Action",
     "category": "CricHD 1",
-    "m3u8": "https://d4.merichunidya.com:1686/hls/skysact.m3u8?md5=oaCIvtNUXZ89VOOC9rzhNA&expires=1756935594"
+    "m3u8": "https://d1.merichunidya.com:1686/hls/skysact.m3u8?md5=AhVAivkkvA6NplcHj5MXaQ&expires=1756939368"
   },
   {
     "id": "sky_sports_golf",
     "title": "Sky Sports Golf",
     "category": "CricHD 1",
-    "m3u8": "https://d3.merichunidya.com:1686/hls/skysgol.m3u8?md5=HuRSz7qg393ORA3rx3Pyaw&expires=1756935594"
+    "m3u8": "https://d2.merichunidya.com:1686/hls/skysgol.m3u8?md5=Ih8qB7kxQhNKPZ7yTmWUkA&expires=1756939368"
   },
   {
     "id": "sky_sports_premier_league",
     "title": "Sky Sports Premier League",
     "category": "CricHD 1",
-    "m3u8": "https://d8.merichunidya.com:1686/hls/skysprem.m3u8?md5=CTFMr9TFayGUypZxErjijA&expires=1756935594"
+    "m3u8": "https://d10.merichunidya.com:1686/hls/skysprem.m3u8?md5=KqK_x6vL_HuWuFpF8SkyLA&expires=1756939368"
   },
   {
     "id": "sky_sports_football",
     "title": "Sky Sports Football",
     "category": "CricHD 1",
-    "m3u8": "https://d8.merichunidya.com:1686/hls/skysfott.m3u8?md5=DLb8Ktarv0L5yckESDrKSA&expires=1756935595"
+    "m3u8": "https://d9.merichunidya.com:1686/hls/skysfott.m3u8?md5=CrBjcCQPXjUugkSJF4QyNw&expires=1756939368"
   },
   {
     "id": "sky_sports_plus",
     "title": "Sky Sports Plus",
     "category": "CricHD 1",
-    "m3u8": "https://d6.merichunidya.com:1686/hls/skysare.m3u8?md5=JMKXW0qHaChoFKsX4yPybw&expires=1756935595"
+    "m3u8": "https://d2.merichunidya.com:1686/hls/skysare.m3u8?md5=lCdJxYvTVdmgn-jnZtLTtA&expires=1756939369"
   },
   {
     "id": "sky_sports_f1",
     "title": "Sky Sports F1",
     "category": "CricHD 1",
-    "m3u8": "https://d1.merichunidya.com:1686/hls/skysfor1.m3u8?md5=XOwuSBKtsmWyPZjDvARP4g&expires=1756935595"
+    "m3u8": "https://d10.merichunidya.com:1686/hls/skysfor1.m3u8?md5=AivQ3GbGcHHtBbJv_y_J4Q&expires=1756939369"
   },
   {
     "id": "laliga",
     "title": "LaLiGA",
     "category": "CricHD 1",
-    "m3u8": "https://d7.merichunidya.com:1686/hls/laligauk.m3u8?md5=VayKaXc8am9RzqcTvi97ng&expires=1756935595"
+    "m3u8": "https://d5.merichunidya.com:1686/hls/laligauk.m3u8?md5=UE027g9uw-0qzTJMXC4gMg&expires=1756939369"
   },
   {
     "id": "premier_sports_1",
     "title": "Premier Sports 1",
     "category": "CricHD 1",
-    "m3u8": "https://d9.merichunidya.com:1686/hls/premieruk.m3u8?md5=fYtFgVns5RukG3cAUQ97mw&expires=1756935596"
+    "m3u8": "https://d10.merichunidya.com:1686/hls/premieruk.m3u8?md5=1R9rAI3aFFDHOpzflhT6oQ&expires=1756939369"
   },
   {
     "id": "premier_sports_2",
     "title": "Premier Sports 2",
     "category": "CricHD 1",
-    "m3u8": "https://d4.merichunidya.com:1686/hls/hdchnl2.m3u8?md5=tiKO6Rnnk5qnSgCV0KzQhw&expires=1756935596"
+    "m3u8": "https://d2.merichunidya.com:1686/hls/hdchnl2.m3u8?md5=bGwnk-LHnWaV3Zkkm1tnmA&expires=1756939370"
   },
   {
     "id": "super_football",
     "title": "Super Football",
     "category": "CricHD 1",
-    "m3u8": "https://d1.merichunidya.com:1686/hls/superfotball.m3u8?md5=skywopYOXOgKipdgrLRLQw&expires=1756935596"
+    "m3u8": "https://d7.merichunidya.com:1686/hls/superfotball.m3u8?md5=NAw0dwquw2qDww3f4PLZ-A&expires=1756939370"
   },
   {
     "id": "sky_sports_arena",
     "title": "Sky Sports Arena",
     "category": "CricHD 1",
-    "m3u8": "https://d7.merichunidya.com:1686/hls/skysare.m3u8?md5=pmhNb5ChfHJiJNyhGgws1A&expires=1756935597"
+    "m3u8": "https://d6.merichunidya.com:1686/hls/skysare.m3u8?md5=VC-IbzxRNP8TBOmKtJxseg&expires=1756939371"
   },
   {
     "id": "sky_sports_mix",
     "title": "Sky Sports Mix",
     "category": "CricHD 1",
-    "m3u8": "https://d7.merichunidya.com:1686/hls/skysmixx.m3u8?md5=cmHdrw89Op_8gfPUT3ifow&expires=1756935598"
+    "m3u8": "https://d7.merichunidya.com:1686/hls/skysmixx.m3u8?md5=6czNpo2z1Slq5zYKpshs-w&expires=1756939371"
   },
   {
     "id": "sky_sports_tennis",
     "title": "Sky Sports Tennis",
     "category": "CricHD 1",
-    "m3u8": "https://d10.merichunidya.com:1686/hls/skystennis.m3u8?md5=F5J9ifLV0RO7b4oCFahivA&expires=1756935598"
+    "m3u8": "https://d9.merichunidya.com:1686/hls/skystennis.m3u8?md5=V3u3Ep4O9kfcQDot5Y4O0A&expires=1756939372"
   },
   {
     "id": "channel_i",
@@ -274,12 +274,6 @@
     "title": "T Sports HD",
     "category": "Channels",
     "m3u8": "https://tvsen5.aynaott.com/tsports/index.m3u8?e=1753741201&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=70d44f9122b66ba1a039b015b3d9ab6b"
-  },
-  {
-    "id": "gazi_tv",
-    "title": "Gazi TV",
-    "category": "Channels",
-    "m3u8": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8?e=1753741202&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=25899d937e0a887d71c3d543b8a6220e"
   },
   {
     "id": "desh_tv",
@@ -412,6 +406,24 @@
     "title": "Cartoon Network",
     "category": "Channels",
     "m3u8": "https://tvsen5.aynaott.com/cartoonnetwork/index.fmp4.m3u8?token=cd8f63dca3ab189eb4ab339508ee2ffb31793613-40118e655906f60e436a5632f59a041c-1753734607-1753733707&remote=no_check_ip"
+  },
+  {
+    "id": "pbs_kids",
+    "title": "PBS Kids",
+    "category": "Channels",
+    "m3u8": "https://tvsen7.aynaott.com/pbskids/index.m3u8?e=1753741207&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=94739c7091e318f319c702a1b8062da0"
+  },
+  {
+    "id": "disney_jr",
+    "title": "Disney JR",
+    "category": "Channels",
+    "m3u8": "https://tvsen7.aynaott.com/disneyjr/index.m3u8?e=1753741207&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=38f07a625828693d8ca6d5d8345f9fe2"
+  },
+  {
+    "id": "nicktoons",
+    "title": "Nicktoons",
+    "category": "Channels",
+    "m3u8": "https://tvsen5.aynaott.com/nicktoons/index.fmp4.m3u8?token=cd7d92583d3c34e8084d8c82341d420c89008dd7-ddb4760f9a0dce8b292d97e30093f937-1753734607-1753733707&remote=no_check_ip"
   },
   {
     "id": "nickjr",
@@ -822,16 +834,34 @@
     "m3u8": "https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1753741230&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=5fca30251e531337b5339bbba78bd449"
   },
   {
+    "id": "bt_sport_1",
+    "title": "BT Sport 1",
+    "category": "Sports",
+    "m3u8": "https://tvsen6.aynaott.com/btSport1/index.m3u8?e=1753741231&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=eac67baaa7aca3e60fd576ca112591bb"
+  },
+  {
     "id": "fox_sports_1",
     "title": "Fox Sports 1",
     "category": "Sports",
     "m3u8": "https://tvsen7.aynaott.com/foxsports1/index.m3u8?e=1753741231&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=ed2fba3b242ba7da0d4b4d792d01c85d"
   },
   {
+    "id": "tsn_1",
+    "title": "TSN 1",
+    "category": "Sports",
+    "m3u8": "https://tvsen7.aynaott.com/tsn1/index.m3u8?e=1753741231&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=6401a4570f2733f232c36cf7b391e805"
+  },
+  {
     "id": "tsn_3",
     "title": "TSN 3",
     "category": "Sports",
     "m3u8": "https://tvsen7.aynaott.com/tsn3/index.m3u8?e=1753741231&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=b95457a23cf9e2723e00e3276c38ae22"
+  },
+  {
+    "id": "abc_7_bay",
+    "title": "ABC 7 Bay",
+    "category": "News",
+    "m3u8": "https://tvsen6.aynaott.com/ABC7Bay/index.m3u8?e=1753741232&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=3e2f2bd95b46ed687abf618f4099cec4"
   },
   {
     "id": "abc_news",
@@ -996,12 +1026,6 @@
     "m3u8": "https://tvsen5.aynaott.com/tsports/index.m3u8?e=1753741240&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=b0a46f6a8044d14caad16465ee9c680f"
   },
   {
-    "id": "discovery_hd_bangla_",
-    "title": "Discovery HD (Bangla)",
-    "category": "Bangla",
-    "m3u8": "https://tvsen6.aynaott.com/discovery_hd_bangla/index.m3u8?e=1753741240&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=34d7b0c19081575434647d295f60ea41"
-  },
-  {
     "id": "duronto_tv",
     "title": "Duronto TV",
     "category": "Kids",
@@ -1024,6 +1048,18 @@
     "title": "Disney JR",
     "category": "Kids",
     "m3u8": "https://tvsen7.aynaott.com/disneyjr/index.m3u8?e=1753741242&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=ab4f68738775e6ac8b8eb3898ffb5f4c"
+  },
+  {
+    "id": "nicktoons",
+    "title": "Nicktoons",
+    "category": "Kids",
+    "m3u8": "https://tvsen5.aynaott.com/nicktoons/index.fmp4.m3u8?token=367a83dd1b70e88bf262f44698fc1a7514beaf1d-cf920ef11ea38dae2edb1e5f4f36b34b-1753734642-1753733742&remote=no_check_ip"
+  },
+  {
+    "id": "nickjr",
+    "title": "Nickjr",
+    "category": "Kids",
+    "m3u8": "https://tvsen5.aynaott.com/nickjr/index.fmp4.m3u8?token=64a0230f05f3880ec3c89c043018899173c30b27-4cee68f38c92601fc553a25dc27007dc-1753734642-1753733742&remote=no_check_ip"
   },
   {
     "id": "3abn_kids",
@@ -1096,6 +1132,12 @@
     "title": "Universal Kids",
     "category": "Kids",
     "m3u8": "https://tvsen5.aynaott.com/universalkids/index.m3u8?e=1753741246&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=37d35e0658a2c03607bb7dbdb6231aa9"
+  },
+  {
+    "id": "ytv",
+    "title": "YTV",
+    "category": "Kids",
+    "m3u8": "https://tvsen6.aynaott.com/ytv/index.m3u8?e=1753741246&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=ed06c040a6b387fb1832c5095e893643"
   },
   {
     "id": "b4u_music",
@@ -1308,22 +1350,16 @@
     "m3u8": "https://tvsen7.aynaott.com/NewsNation/index.m3u8?e=1753741256&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=62cf9fab367c5b4c85167618b39b78a3"
   },
   {
+    "id": "islam_tv",
+    "title": "Islam TV",
+    "category": "English",
+    "m3u8": "https://tvsen6.aynaott.com/islam/index.m3u8?e=1753741257&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=a5219b7c1ef783e5c0a5830ef1a8cef9"
+  },
+  {
     "id": "abc_news",
     "title": "ABC News",
     "category": "English",
     "m3u8": "https://tvsen6.aynaott.com/AbcNews/index.m3u8?e=1753741257&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=41a2db2953c0051f942d340730d78e82"
-  },
-  {
-    "id": "amiricans_voice_news",
-    "title": "Amiricans Voice News",
-    "category": "English",
-    "m3u8": "https://tvsen6.aynaott.com/AmiricansVoiceNews/index.m3u8?e=1753741257&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=92b2030bec896fb756e7b2e35512935e"
-  },
-  {
-    "id": "bek_tv_news",
-    "title": "BEK TV News",
-    "category": "English",
-    "m3u8": "https://tvsen6.aynaott.com/BekTvNews/index.m3u8?e=1753741258&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=325b2471090065540105dbd310ae78a7"
   },
   {
     "id": "rds_social_tv",
@@ -1410,6 +1446,12 @@
     "m3u8": "https://tvsen6.aynaott.com/cnbc/index.m3u8?e=1753741262&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=9430be8148a4ab1513c76db13f13174a"
   },
   {
+    "id": "cbs_tv",
+    "title": "CBS TV",
+    "category": "English",
+    "m3u8": "https://tvsen7.aynaott.com/cbs/index.m3u8?e=1753741263&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=a85a3f3bbec78592b9ed3d758f2e99ea"
+  },
+  {
     "id": "cp_24",
     "title": "CP 24",
     "category": "English",
@@ -1432,6 +1474,12 @@
     "title": "MSNBC News",
     "category": "English",
     "m3u8": "https://tvsen6.aynaott.com/msnbc/index.m3u8?e=1753741263&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=930baf16d40433e41930855cb77df053"
+  },
+  {
+    "id": "islam_tv",
+    "title": "Islam TV",
+    "category": "Religious",
+    "m3u8": "https://tvsen6.aynaott.com/islam/index.m3u8?e=1753741264&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=fc9cf456f09b8b30534ceeeb2639b0c5"
   },
   {
     "id": "rtv_islam",
@@ -1464,12 +1512,6 @@
     "m3u8": "https://tvsen6.aynaott.com/PeaceTVUrduHD/index.m3u8?e=1753741265&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=88ab74f8bebd6197c7492fcd332cde15"
   },
   {
-    "id": "channel_win",
-    "title": "Channel Win",
-    "category": "Religious",
-    "m3u8": "https://tvsen6.aynaott.com/ChannelWin/index.m3u8?e=1753741266&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=6d953da9b4b38a754da4aadeb4ee7423"
-  },
-  {
     "id": "manoranjan_movies",
     "title": "Manoranjan Movies",
     "category": "Movies",
@@ -1486,6 +1528,12 @@
     "title": "RDS Social TV",
     "category": "Music",
     "m3u8": "https://tvsen6.aynaott.com/RDSSocialTV/index.m3u8?e=1753741268&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=7432654ac70d7dcb18c69ebc82caafac"
+  },
+  {
+    "id": "power_turk",
+    "title": "Power Turk",
+    "category": "Music",
+    "m3u8": "https://tvsen6.aynaott.com/PowerTurkTV/index.m3u8?e=1753741269&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=9dbf00fffade98598b7e4b9cdbebc66c"
   },
   {
     "id": "9xm",
@@ -1770,12 +1818,6 @@
     "m3u8": "https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8"
   },
   {
-    "id": "starsports2",
-    "title": "Star Sports 2",
-    "category": "Sports",
-    "m3u8": "https://tvsen5.aynaott.com/xSZ52snq4z3N/index.m3u8"
-  },
-  {
     "id": "EuroSport1",
     "title": "Euro Sport 1",
     "category": "Sports",
@@ -1816,6 +1858,12 @@
     "title": "Willow HD",
     "category": "Sports",
     "m3u8": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
+  },
+  {
+    "id": "btSport1",
+    "title": "BT Sport 1",
+    "category": "Sports",
+    "m3u8": "https://tvsen6.aynaott.com/btSport1/index.m3u8"
   },
   {
     "id": "btSport2",
@@ -1878,12 +1926,6 @@
     "m3u8": "https://tvsen6.aynaott.com/AbuDhabiSports1/index.m3u8"
   },
   {
-    "id": "starsportsselect1",
-    "title": "Star Sports Select 1",
-    "category": "Sports",
-    "m3u8": "https://tvsen6.aynaott.com/spsel1/index.m3u8"
-  },
-  {
     "id": "ERTSports1",
     "title": "ERT Sports 1",
     "category": "Sports",
@@ -1926,22 +1968,28 @@
     "m3u8": "https://tvsen4.aynaott.com/durontotv/index.m3u8"
   },
   {
+    "id": "nicktoons",
+    "title": "Nick Toons",
+    "category": "Kids",
+    "m3u8": "https://tvsen5.aynaott.com/nicktoons/index.fmp4.m3u8"
+  },
+  {
     "id": "disneyxd",
     "title": "Disney XD",
     "category": "Kids",
     "m3u8": "https://tvsen5.aynaott.com/disneyxd/index.m3u8"
   },
   {
+    "id": "nickjr",
+    "title": "Nick Jr",
+    "category": "Kids",
+    "m3u8": "https://tvsen5.aynaott.com/nickjr/index.fmp4.m3u8"
+  },
+  {
     "id": "familyjr",
     "title": "Family Jr",
     "category": "Kids",
     "m3u8": "https://tvsen5.aynaott.com/familyjr/index.m3u8"
-  },
-  {
-    "id": "discovery_hd_bangla",
-    "title": "Discovery HD Bangla",
-    "category": "Entertainment",
-    "m3u8": "https://tvsen6.aynaott.com/discovery_hd_bangla/index.m3u8"
   },
   {
     "id": "animal_planet_hd",
