@@ -7,6 +7,7 @@ from typing import List, Dict, Optional
 # Provide one or more M3U/M3U8 playlist URLs to merge
 M3U_URLS: List[str] = [
     "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/CricHD.m3u",
+    "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/combined-playlist.m3u",
     # TheTVApp consolidated list (example from the user)
     # Fancode live events (user provided)
     "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u",
