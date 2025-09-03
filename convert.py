@@ -30,4 +30,31 @@ def parse_m3u(m3u_text: str):
             current = {
                 "id": channel_id,
                 "title": title,
-                "category": "Sports",  # Default category
+                "category": "Sports"  # Default category
+            }
+
+        elif line.startswith("http"):
+            current["m3u8"] = line.strip()
+            channels.append(current)
+            current = {}
+
+    return channels
+
+
+def save_json(channels, output_file: Path):
+    with open(output_file, "w", encoding="utf-8") as f:
+        json.dump(channels, f, indent=2, ensure_ascii=False)
+
+
+def main():
+    print("Fetching M3U playlist...")
+    m3u_text = fetch_m3u(M3U_URL)
+    print("Parsing channels...")
+    channels = parse_m3u(m3u_text)
+    print(f"Found {len(channels)} channels")
+    save_json(channels, OUTPUT_FILE)
+    print(f"Saved to {OUTPUT_FILE}")
+
+
+if __name__ == "__main__":
+    main()
