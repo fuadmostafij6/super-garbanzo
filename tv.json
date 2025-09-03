@@ -1,0 +1,110 @@
+[
+  {
+    "id": "btv",
+    "m3u8": "https://tvsen6.aynaott.com/btvhd/index.m3u8",
+    "title": "BTv",
+    "category": "Bangladeshi"
+  },
+  {
+    "id": "btvctg",
+    "m3u8": "https://tvsen6.aynaott.com/btvctg/index.m3u8",
+    "title": "BTv CTG",
+    "category": "Bangladeshi"
+  },
+  {
+    "id": "btvbdnews",
+    "m3u8": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/tracks-v1a1/mono.m3u8",
+    "title": "BTv News",
+    "category": "Bangladeshi"
+  },
+  {
+    "id": "channel9hd",
+    "m3u8": "https://tvsen6.aynaott.com/channel9/index.m3u8",
+    "title": "Channel 9 HD",
+    "category": "Bangladeshi"
+  },
+  {
+    "id": "somoytv",
+    "m3u8": "https://tvsen6.aynaott.com/somoytv/index.m3u8",
+    "title": "Somoy TV",
+    "category": "Bangladeshi"
+  },
+  {
+    "id": "jamunatv",
+    "m3u8": "https://tvsen6.aynaott.com/jamunatv/index.m3u8",
+    "title": "Jamuna TV",
+    "category": "Bangladeshi"
+  },
+  {
+    "id": "ekattortv",
+    "m3u8": "https://tvsen6.aynaott.com/ekattorbdtv/index.m3u8",
+    "title": "Ekattor TV",
+    "category": "Bangladeshi"
+  },
+  {
+    "id": "channel24",
+    "m3u8": "https://tvsen6.aynaott.com/channel24/index.m3u8",
+    "title": "Channel 24",
+    "category": "Bangladeshi"
+  },
+  {
+    "id": "independenttv",
+    "m3u8": "https://tvsen6.aynaott.com/independenttv/index.m3u8",
+    "title": "Independent TV",
+    "category": "Bangladeshi"
+  },
+  {
+    "id": "atnnews",
+    "m3u8": "https://tvsen6.aynaott.com/atnnews/index.m3u8",
+    "title": "ATN News",
+    "category": "Bangladeshi"
+  },
+  {
+    "id": "dbcnews",
+    "m3u8": "https://tvsen6.aynaott.com/dbcnews/index.m3u8",
+    "title": "DBC News",
+    "category": "Bangladeshi"
+  },
+  {
+    "id": "news24",
+    "m3u8": "https://tvsen6.aynaott.com/news24/index.m3u8",
+    "title": "News 24",
+    "category": "Bangladeshi"
+  },
+  {
+    "id": "ekhontv",
+    "m3u8": "https://tvsen6.aynaott.com/ekhontv/index.m3u8",
+    "title": "Ekhon TV",
+    "category": "Bangladeshi"
+  },
+  {
+    "id": "etv",
+    "m3u8": "https://tvsen6.aynaott.com/etv/index.m3u8",
+    "title": "ETV",
+    "category": "Bangladeshi"
+  },
+  {
+    "id": "globaltvhd",
+    "m3u8": "https://tvsen6.aynaott.com/globaltvhd/index.m3u8",
+    "title": "Global TV HD",
+    "category": "Bangladeshi"
+  },
+  {
+    "id": "nexustv",
+    "m3u8": "https://tvsen6.aynaott.com/nexustv/index.m3u8",
+    "title": "Nexus TV HD",
+    "category": "Bangladeshi"
+  },
+  {
+    "id": "channeli",
+    "m3u8": "https://tvsen6.aynaott.com/channeli/index.m3u8",
+    "title": "Channel I",
+    "category": "Bangladeshi"
+  },
+  {
+    "id": "atnbangla",
+    "m3u8": "https://tvsen5.aynaott.com/atnbangla/index.m3u8",
+    "title": "ATN Bangla",
+    "category": "Bangladeshi"
+  }
+]
