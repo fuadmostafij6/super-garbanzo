@@ -9,6 +9,8 @@ M3U_URLS: List[str] = [
     "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/CricHD.m3u",
     # TheTVApp consolidated list (example from the user)
     "https://raw.githubusercontent.com/abusaeeidx/IPTV-Scraper-Zilla/refs/heads/main/TheTVApp.m3u8",
+    # Fancode live events (user provided)
+    "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u",
 ]
 OUTPUT_FILE = Path("merge.json")
 
@@ -31,6 +33,58 @@ def _parse_extinf_attributes(extinf_line: str) -> Dict[str, str]:
     return attrs
 
 
+def _normalize_category(raw_category: Optional[str], title: str) -> str:
+    if raw_category and raw_category.strip():
+        cat = raw_category.strip()
+        # Normalize common vendor prefixes like Fancode-*
+        if cat.lower().startswith("fancode-"):
+            cat = cat.split("-", 1)[1]
+        # Collapse things like "Sports; Cricket" to "Cricket"
+        if ";" in cat:
+            parts = [p.strip() for p in cat.split(";") if p.strip()]
+            if parts:
+                cat = parts[-1]
+        # Title-case simple categories
+        if cat.lower() in {"cricket", "football", "soccer", "basketball", "baseball", "hockey", "news", "movies", "kids", "music"}:
+            return cat.capitalize()
+        # If contains specific sports keyword, map to that sport
+        lc = cat.lower()
+        if "cricket" in lc:
+            return "Cricket"
+        if any(k in lc for k in ["football", "soccer"]):
+            return "Football"
+        if any(k in lc for k in ["basketball", "nba"]):
+            return "Basketball"
+        if any(k in lc for k in ["baseball", "mlb"]):
+            return "Baseball"
+        if any(k in lc for k in ["hockey", "nhl"]):
+            return "Hockey"
+        if any(k in lc for k in ["news", "cnn", "bbc", "fox news"]):
+            return "News"
+        if any(k in lc for k in ["movie", "cinema", "film", "hbo"]):
+            return "Movies"
+        # Fallback to vendor-provided value if not recognized
+        return cat
+
+    # No group-title provided; infer from title
+    t = title.lower()
+    if "cricket" in t:
+        return "Cricket"
+    if any(k in t for k in ["football", "soccer"]):
+        return "Football"
+    if any(k in t for k in ["nba", "basketball"]):
+        return "Basketball"
+    if any(k in t for k in ["mlb", "baseball"]):
+        return "Baseball"
+    if any(k in t for k in ["nhl", "hockey"]):
+        return "Hockey"
+    if any(k in t for k in ["news", "cnn", "fox news", "bbc"]):
+        return "News"
+    if any(k in t for k in ["movie", "cinema", "film", "hbo"]):
+        return "Movies"
+    return "General"
+
+
 def parse_m3u(m3u_text: str):
     lines = m3u_text.strip().splitlines()
     channels = []
@@ -44,18 +98,7 @@ def parse_m3u(m3u_text: str):
             title_from_suffix = match.group(1).strip() if match else "Unknown"
             title = attrs.get("tvg-name") or title_from_suffix or "Unknown"
 
-            category: Optional[str] = attrs.get("group-title")
-            if not category or not category.strip():
-                # Attempt a basic inference from title
-                t = title.lower()
-                if any(k in t for k in ["nba", "mlb", "nhl", "nfl", "soccer", "sports", "espn"]):
-                    category = "Sports"
-                elif any(k in t for k in ["news", "cnn", "fox news", "bbc"]):
-                    category = "News"
-                elif any(k in t for k in ["movie", "cinema", "film", "hbo"]):
-                    category = "Movies"
-                else:
-                    category = "General"
+            category: Optional[str] = _normalize_category(attrs.get("group-title"), title)
 
             channel_id = re.sub(r'\W+', '_', title.lower())
 
