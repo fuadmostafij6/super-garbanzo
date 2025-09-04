@@ -23,7 +23,7 @@ def fetch_m3u(url: str) -> str:
 
 
 def _parse_extinf_attributes(extinf_line: str) -> Dict[str, str]:
-    """Extract attributes like tvg-name, group-title from an #EXTINF line."""
+    """Extract attributes like tvg-name, group-title, tvg-logo from an #EXTINF line."""
     attrs: Dict[str, str] = {}
     # Find all key="value" pairs
     for match in re.finditer(r'(\w[\w-]*)\s*=\s*"([^"]*)"', extinf_line):
@@ -31,6 +31,36 @@ def _parse_extinf_attributes(extinf_line: str) -> Dict[str, str]:
         value = match.group(2)
         attrs[key] = value
     return attrs
+
+
+def _parse_extvlcopt(line: str) -> Dict[str, str]:
+    """Parse #EXTVLCOPT line for user agent and other options."""
+    opts: Dict[str, str] = {}
+    # Extract http-user-agent
+    user_agent_match = re.search(r'http-user-agent=([^\\s]+)', line)
+    if user_agent_match:
+        opts["user_agent"] = user_agent_match.group(1)
+    return opts
+
+
+def _parse_exthttp(line: str) -> Dict[str, str]:
+    """Parse #EXTHTTP line for cookies and other HTTP headers."""
+    http_opts: Dict[str, str] = {}
+    try:
+        # Extract JSON content from the line
+        json_match = re.search(r'#EXTHTTP:(\{.*\})', line)
+        if json_match:
+            json_str = json_match.group(1)
+            data = json.loads(json_str)
+            if "cookie" in data:
+                http_opts["cookies"] = data["cookie"]
+            # Add other HTTP options if present
+            for key, value in data.items():
+                if key != "cookie":
+                    http_opts[f"http_{key}"] = value
+    except (json.JSONDecodeError, KeyError):
+        pass
+    return http_opts
 
 
 def _normalize_category(raw_category: Optional[str], title: str) -> str:
@@ -89,6 +119,7 @@ def parse_m3u(m3u_text: str):
     lines = m3u_text.strip().splitlines()
     channels = []
     current = {}
+    current_opts = {}
 
     for line in lines:
         if line.startswith("#EXTINF"):
@@ -96,6 +127,17 @@ def parse_m3u(m3u_text: str):
             # Title is after the last comma on the line
             match = re.search(r',\s*(.*)', line)
             title_from_suffix = match.group(1).strip() if match else "Unknown"
+            # Clean up the title - remove any URL-like parts that might be included
+            if title_from_suffix and ("http" in title_from_suffix or "w_300" in title_from_suffix):
+                # If title contains URL parts, try to extract just the channel name
+                if '", ' in title_from_suffix:
+                    parts = title_from_suffix.split('", ')
+                    if len(parts) > 1:
+                        title_from_suffix = parts[-1].strip()
+                elif '",' in title_from_suffix:
+                    parts = title_from_suffix.split('",')
+                    if len(parts) > 1:
+                        title_from_suffix = parts[-1].strip()
             title = attrs.get("tvg-name") or title_from_suffix or "Unknown"
 
             category: Optional[str] = _normalize_category(attrs.get("group-title"), title)
@@ -105,27 +147,58 @@ def parse_m3u(m3u_text: str):
             current = {
                 "id": channel_id,
                 "title": title,
-                "category": category
+                "category": category,
+                "logo": attrs.get("tvg-logo", ""),
+                "tvg_id": attrs.get("tvg-id", ""),
+                "tvg_chno": attrs.get("tvg-chno", "")
             }
+            # Reset options for new channel
+            current_opts = {}
+
+        elif line.startswith("#EXTVLCOPT"):
+            # Parse VLC options (user agent, etc.)
+            vlc_opts = _parse_extvlcopt(line)
+            current_opts.update(vlc_opts)
+
+        elif line.startswith("#EXTHTTP"):
+            # Parse HTTP options (cookies, etc.)
+            http_opts = _parse_exthttp(line)
+            current_opts.update(http_opts)
 
         elif line.startswith("http"):
             current["m3u8"] = line.strip()
+            # Add all collected options to the channel
+            if current_opts:
+                current.update(current_opts)
             channels.append(current)
             current = {}
 
     return channels
 
 
-def is_m3u8_working(url: str) -> bool:
-    """Return True if the m3u8 URL responds successfully."""
-    headers = {"User-Agent": "Mozilla/5.0 (compatible; M3U-Merger/1.0)"}
+def is_m3u8_working(url: str, cookies: str = "", user_agent: str = "") -> bool:
+    """Return True if the m3u8 URL responds successfully with optional cookies and user agent."""
+    headers = {"User-Agent": user_agent or "Mozilla/5.0 (compatible; M3U-Merger/1.0)"}
+    
+    # Parse cookies if provided
+    cookie_dict = {}
+    if cookies:
+        try:
+            # Simple cookie parsing - split by semicolon and equals
+            for cookie in cookies.split(';'):
+                if '=' in cookie:
+                    name, value = cookie.strip().split('=', 1)
+                    cookie_dict[name.strip()] = value.strip()
+        except:
+            pass
+    
     try:
         # Some origins block HEAD; fall back to GET if needed
-        head = requests.head(url, headers=headers, allow_redirects=True, timeout=8)
+        head = requests.head(url, headers=headers, cookies=cookie_dict, allow_redirects=True, timeout=8)
         if 200 <= head.status_code < 300:
             return True
         # Try a lightweight GET
-        with requests.get(url, headers=headers, stream=True, timeout=12) as r:
+        with requests.get(url, headers=headers, cookies=cookie_dict, stream=True, timeout=12) as r:
             if not (200 <= r.status_code < 300):
                 return False
             # Read a tiny chunk to ensure it's actually accessible
@@ -160,6 +233,11 @@ def load_existing_json(path: Path) -> List[Dict]:
                     "title": ch.get("title", "Unknown"),
                     "category": ch.get("category", "General"),
                     "m3u8": m3u8,
+                    "logo": ch.get("logo", ""),
+                    "tvg_id": ch.get("tvg_id", ""),
+                    "tvg_chno": ch.get("tvg_chno", ""),
+                    "cookies": ch.get("cookies", ""),
+                    "user_agent": ch.get("user_agent", ""),
                 })
             return normalized
     except Exception:
@@ -191,12 +269,19 @@ def main():
         if m3u8_url not in deduped:
             deduped[m3u8_url] = ch
 
+    # Save all parsed channels first (for debugging)
+    all_parsed_file = Path("all_parsed.json")
+    save_json(list(deduped.values()), all_parsed_file)
+    print(f"Saved all parsed channels to {all_parsed_file}")
+
     print(f"Checking availability of {len(deduped)} .m3u8 URLs...")
     working_channels: List[Dict] = []
     checked = 0
     for m3u8_url, ch in deduped.items():
         checked += 1
-        ok = is_m3u8_working(m3u8_url)
+        cookies = ch.get("cookies", "")
+        user_agent = ch.get("user_agent", "")
+        ok = is_m3u8_working(m3u8_url, cookies, user_agent)
         status = "OK" if ok else "DOWN"
         print(f"[{checked}/{len(deduped)}] {status} - {ch.get('title', '')}")
         if ok:
