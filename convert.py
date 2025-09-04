@@ -208,27 +208,52 @@ def is_m3u8_working(url: str, cookies: str = "", user_agent: str = "") -> bool:
     cookie_dict = {}
     if cookies:
         try:
-            # Simple cookie parsing - split by semicolon and equals
-            for cookie in cookies.split(';'):
-                if '=' in cookie:
-                    name, value = cookie.strip().split('=', 1)
-                    cookie_dict[name.strip()] = value.strip()
-        except:
+            # Handle Toffee-style cookies (Edge-Cache-Cookie format)
+            if "Edge-Cache-Cookie=" in cookies:
+                # Extract the Edge-Cache-Cookie value
+                edge_cookie_match = re.search(r'Edge-Cache-Cookie=([^;]+)', cookies)
+                if edge_cookie_match:
+                    edge_cookie_value = edge_cookie_match.group(1)
+                    cookie_dict["Edge-Cache-Cookie"] = edge_cookie_value
+            else:
+                # Standard cookie parsing - split by semicolon and equals
+                for cookie in cookies.split(';'):
+                    if '=' in cookie:
+                        name, value = cookie.strip().split('=', 1)
+                        cookie_dict[name.strip()] = value.strip()
+        except Exception as e:
+            print(f"Cookie parsing error: {e}")
             pass
     
     try:
-        # Some origins block HEAD; fall back to GET if needed
-        head = requests.head(url, headers=headers, cookies=cookie_dict, allow_redirects=True, timeout=8)
-        if 200 <= head.status_code < 300:
-            return True
-        # Try a lightweight GET
-        with requests.get(url, headers=headers, cookies=cookie_dict, stream=True, timeout=12) as r:
-            if not (200 <= r.status_code < 300):
-                return False
-            # Read a tiny chunk to ensure it's actually accessible
-            next(r.iter_content(chunk_size=256), None)
-            return True
-    except Exception:
+        # Try HEAD request first (faster)
+        try:
+            head = requests.head(url, headers=headers, cookies=cookie_dict, allow_redirects=True, timeout=10)
+            if 200 <= head.status_code < 300:
+                return True
+        except Exception as e:
+            print(f"HEAD request failed for {url}: {e}")
+        
+        # Fall back to GET request
+        try:
+            with requests.get(url, headers=headers, cookies=cookie_dict, stream=True, timeout=15) as r:
+                if not (200 <= r.status_code < 300):
+                    print(f"GET request failed for {url}: status {r.status_code}")
+                    return False
+                # Read a tiny chunk to ensure it's actually accessible
+                try:
+                    next(r.iter_content(chunk_size=256), None)
+                    return True
+                except Exception as e:
+                    print(f"Content reading failed for {url}: {e}")
+                    # Even if we can't read content, if we got a 200 response, consider it working
+                    return True
+        except Exception as e:
+            print(f"GET request exception for {url}: {e}")
+            return False
+            
+    except Exception as e:
+        print(f"General exception for {url}: {e}")
         return False
 
 
@@ -301,7 +326,28 @@ def main():
     print(f"Checking availability of {len(deduped)} .m3u8 URLs...")
     working_channels: List[Dict] = []
     checked = 0
-    for m3u8_url, ch in deduped.items():
+    
+    # Debug: Test first few channels to see what's happening
+    test_count = min(5, len(deduped))
+    print(f"Testing first {test_count} channels for debugging...")
+    
+    for m3u8_url, ch in list(deduped.items())[:test_count]:
+        checked += 1
+        cookies = ch.get("cookies", "")
+        user_agent = ch.get("user_agent", "")
+        print(f"\nTesting channel {checked}: {ch.get('title', '')}")
+        print(f"URL: {m3u8_url}")
+        print(f"Has cookies: {bool(cookies)}")
+        print(f"Has user agent: {bool(user_agent)}")
+        
+        ok = is_m3u8_working(m3u8_url, cookies, user_agent)
+        status = "OK" if ok else "DOWN"
+        print(f"[{checked}/{test_count}] {status} - {ch.get('title', '')}")
+        if ok:
+            working_channels.append(ch)
+    
+    # Continue with remaining channels
+    for m3u8_url, ch in list(deduped.items())[test_count:]:
         checked += 1
         cookies = ch.get("cookies", "")
         user_agent = ch.get("user_agent", "")
