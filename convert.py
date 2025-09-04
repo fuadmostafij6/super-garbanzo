@@ -128,7 +128,7 @@ def parse_m3u(m3u_text: str):
             match = re.search(r',\s*(.*)', line)
             title_from_suffix = match.group(1).strip() if match else "Unknown"
             # Clean up the title - remove any URL-like parts that might be included
-            if title_from_suffix and ("http" in title_from_suffix or "w_300" in title_from_suffix):
+            if title_from_suffix and ("http" in title_from_suffix or "w_300" in title_from_suffix or "w_240" in title_from_suffix):
                 # If title contains URL parts, try to extract just the channel name
                 if '", ' in title_from_suffix:
                     parts = title_from_suffix.split('", ')
@@ -138,6 +138,29 @@ def parse_m3u(m3u_text: str):
                     parts = title_from_suffix.split('",')
                     if len(parts) > 1:
                         title_from_suffix = parts[-1].strip()
+                elif '\\", ' in title_from_suffix:
+                    parts = title_from_suffix.split('\\", ')
+                    if len(parts) > 1:
+                        title_from_suffix = parts[-1].strip()
+                elif '\\",' in title_from_suffix:
+                    parts = title_from_suffix.split('\\",')
+                    if len(parts) > 1:
+                        title_from_suffix = parts[-1].strip()
+            
+            # Clean up special characters and formatting
+            if title_from_suffix:
+                # Remove leading "& " if present
+                if title_from_suffix.startswith("& "):
+                    title_from_suffix = title_from_suffix[2:]
+                # Remove any remaining quotes
+                title_from_suffix = title_from_suffix.strip('"\'')
+                # Clean up any remaining URL artifacts
+                if "/" in title_from_suffix and ("w_300" in title_from_suffix or "w_240" in title_from_suffix):
+                    # Try to extract just the channel name after the last comma
+                    if "," in title_from_suffix:
+                        parts = title_from_suffix.split(",")
+                        if len(parts) > 1:
+                            title_from_suffix = parts[-1].strip()
             title = attrs.get("tvg-name") or title_from_suffix or "Unknown"
 
             category: Optional[str] = _normalize_category(attrs.get("group-title"), title)
