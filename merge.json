@@ -1,155 +1,5 @@
 [
   {
-    "id": "star_sports_1",
-    "title": "Star Sports 1",
-    "category": "CricHD 1",
-    "m3u8": "https://d9.merichunidya.com:1686/hls/star1in.m3u8?md5=PWBNOGZhTSiTNV4fQmLLZQ&expires=1756949962"
-  },
-  {
-    "id": "star_sports_1_hindi",
-    "title": "Star Sports 1 Hindi",
-    "category": "CricHD 1",
-    "m3u8": "https://d2.merichunidya.com:1686/hls/starhindi.m3u8?md5=a7darZg6Z2UuvXmtgT45KQ&expires=1756949962"
-  },
-  {
-    "id": "ptv_sports",
-    "title": "PTV Sports",
-    "category": "CricHD 1",
-    "m3u8": "https://d6.merichunidya.com:1686/hls/ptvpk.m3u8?md5=X7nGBuF3LJ1I4jRhUz5VVQ&expires=1756949962"
-  },
-  {
-    "id": "willow_hd",
-    "title": "Willow HD",
-    "category": "CricHD 1",
-    "m3u8": "https://d7.merichunidya.com:1686/hls/willowusa.m3u8?md5=o6GlrjI4EPeWaE_pB6hxcw&expires=1756949963"
-  },
-  {
-    "id": "willow_hd_2",
-    "title": "Willow HD 2",
-    "category": "CricHD 1",
-    "m3u8": "https://d3.merichunidya.com:1686/hls/willowextra.m3u8?md5=40hD_86zeEijnr5TLuW25Q&expires=1756949963"
-  },
-  {
-    "id": "ten_sports",
-    "title": "Ten Sports",
-    "category": "CricHD 1",
-    "m3u8": "https://d2.merichunidya.com:1686/hls/tenspk.m3u8?md5=oLfSnQgVe8Z-nuQkpjDCew&expires=1756949963"
-  },
-  {
-    "id": "a_sports_hd",
-    "title": "A Sports HD",
-    "category": "CricHD 1",
-    "m3u8": "https://d4.merichunidya.com:1686/hls/asportshd.m3u8?md5=WnQPkUqK6s2vn3qo_sFTHw&expires=1756949963"
-  },
-  {
-    "id": "sky_sports_cricket",
-    "title": "Sky Sports Cricket",
-    "category": "CricHD 1",
-    "m3u8": "https://d5.merichunidya.com:1686/hls/skyscric.m3u8?md5=71_Tuh8I9ZcEsqzp85ifzA&expires=1756949963"
-  },
-  {
-    "id": "sky_sports_main_event",
-    "title": "Sky Sports Main Event",
-    "category": "CricHD 1",
-    "m3u8": "https://d10.merichunidya.com:1686/hls/skysme.m3u8?md5=v93QjCljFyrWuqgGn1BMOg&expires=1756949963"
-  },
-  {
-    "id": "tnt_1",
-    "title": "TNT 1",
-    "category": "CricHD 1",
-    "m3u8": "https://d5.merichunidya.com:1686/hls/bbtsp1.m3u8?md5=EGU8-nSUBjycg78zAEIkVg&expires=1756949963"
-  },
-  {
-    "id": "tnt_2",
-    "title": "TNT 2",
-    "category": "CricHD 1",
-    "m3u8": "https://d8.merichunidya.com:1686/hls/bbtsp2.m3u8?md5=so4aATTR0I0dMZ34BIFGIw&expires=1756949964"
-  },
-  {
-    "id": "tnt_3",
-    "title": "TNT 3",
-    "category": "CricHD 1",
-    "m3u8": "https://d10.merichunidya.com:1686/hls/bbtsp3.m3u8?md5=do4ORb1KcgPIvEf1n186LA&expires=1756949964"
-  },
-  {
-    "id": "tnt_4",
-    "title": "TNT 4",
-    "category": "CricHD 1",
-    "m3u8": "https://d4.merichunidya.com:1686/hls/bbtespn.m3u8?md5=MfyfCoPWGYz87dZM5BwizQ&expires=1756949964"
-  },
-  {
-    "id": "sky_cinema",
-    "title": "Sky Cinema",
-    "category": "CricHD 1",
-    "m3u8": "https://d1.merichunidya.com:1686/hls/skysme.m3u8?md5=7abz0mSIwoQt0egQdA5RQw&expires=1756949965"
-  },
-  {
-    "id": "sky_sports_action",
-    "title": "Sky Sports Action",
-    "category": "CricHD 1",
-    "m3u8": "https://d6.merichunidya.com:1686/hls/skysact.m3u8?md5=UiqEAEYrRW_MTt3df_0Z9g&expires=1756949965"
-  },
-  {
-    "id": "sky_sports_golf",
-    "title": "Sky Sports Golf",
-    "category": "CricHD 1",
-    "m3u8": "https://d7.merichunidya.com:1686/hls/skysgol.m3u8?md5=CO6Jv-L1m9Ub9jo2rxFd_Q&expires=1756949965"
-  },
-  {
-    "id": "sky_sports_premier_league",
-    "title": "Sky Sports Premier League",
-    "category": "CricHD 1",
-    "m3u8": "https://d7.merichunidya.com:1686/hls/skysprem.m3u8?md5=PMD1KCnw3ZoeEnwXteMZrg&expires=1756949965"
-  },
-  {
-    "id": "sky_sports_football",
-    "title": "Sky Sports Football",
-    "category": "CricHD 1",
-    "m3u8": "https://d3.merichunidya.com:1686/hls/skysfott.m3u8?md5=D0T-VJU46dpViL3ZKRju1A&expires=1756949965"
-  },
-  {
-    "id": "sky_sports_f1",
-    "title": "Sky Sports F1",
-    "category": "CricHD 1",
-    "m3u8": "https://d8.merichunidya.com:1686/hls/skysfor1.m3u8?md5=tOEW7Pm4BbUahfON8WjJLw&expires=1756949966"
-  },
-  {
-    "id": "laliga",
-    "title": "LaLiGA",
-    "category": "CricHD 1",
-    "m3u8": "https://d1.merichunidya.com:1686/hls/laligauk.m3u8?md5=7lD3jiU2PfLoR3G5P59-mg&expires=1756949966"
-  },
-  {
-    "id": "premier_sports_1",
-    "title": "Premier Sports 1",
-    "category": "CricHD 1",
-    "m3u8": "https://d10.merichunidya.com:1686/hls/premieruk.m3u8?md5=kMS6AIRKSIFhla0OYmvigQ&expires=1756949966"
-  },
-  {
-    "id": "premier_sports_2",
-    "title": "Premier Sports 2",
-    "category": "CricHD 1",
-    "m3u8": "https://d2.merichunidya.com:1686/hls/hdchnl2.m3u8?md5=ZCm1UKAkh8JT0womLb1jJQ&expires=1756949966"
-  },
-  {
-    "id": "super_football",
-    "title": "Super Football",
-    "category": "CricHD 1",
-    "m3u8": "https://d8.merichunidya.com:1686/hls/superfotball.m3u8?md5=dLDiwKBKFznF-2B8hnUdJA&expires=1756949966"
-  },
-  {
-    "id": "sky_sports_mix",
-    "title": "Sky Sports Mix",
-    "category": "CricHD 1",
-    "m3u8": "https://d3.merichunidya.com:1686/hls/skysmixx.m3u8?md5=X9cOO25yzPAZq7q6ebLnZQ&expires=1756949967"
-  },
-  {
-    "id": "sky_sports_tennis",
-    "title": "Sky Sports Tennis",
-    "category": "CricHD 1",
-    "m3u8": "https://d6.merichunidya.com:1686/hls/skystennis.m3u8?md5=KMtSN0W3sh_TUYkXa7npwQ&expires=1756949967"
-  },
-  {
     "id": "channel_i",
     "title": "Channel I",
     "category": "Recorded TV",
@@ -726,12 +576,6 @@
     "m3u8": "https://tvsen5.aynaott.com/tsports/index.m3u8?e=1753741223&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=286a45e3006c0b412ce19722499f2126"
   },
   {
-    "id": "a_sports",
-    "title": "A sports",
-    "category": "Sports",
-    "m3u8": "https://tvsen7.aynaott.com/asports-bkp/index.m3u8?e=1753741223&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=a2744ce4938f1e1c1c6ace37acf30604"
-  },
-  {
     "id": "all_sports_television_network",
     "title": "All Sports Television Network",
     "category": "Sports",
@@ -828,16 +672,16 @@
     "m3u8": "https://tvsen6.aynaott.com/CBSSportsNetwork/index.m3u8?e=1753741229&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=263eebfe2808520e7a3ba0da604c4b94"
   },
   {
+    "id": "dubai_sports_2",
+    "title": "Dubai Sports 2",
+    "category": "Sports",
+    "m3u8": "https://tvsen6.aynaott.com/DubaiSports2/index.m3u8?e=1753741229&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=689f3fc2d32008a29b255c67abcfd600"
+  },
+  {
     "id": "ert_sports_1",
     "title": "ERT Sports 1",
     "category": "Sports",
     "m3u8": "https://tvsen6.aynaott.com/ERTSports1/index.m3u8?e=1753741229&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=87f2ef317d67c9e2606e5e3885cda393"
-  },
-  {
-    "id": "sportsman_channel",
-    "title": "Sportsman Channel",
-    "category": "Sports",
-    "m3u8": "https://tvsen6.aynaott.com/SportsmanChannel/index.m3u8?e=1753741230&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=3769c75f8787530a8cc1e3ef15ca59d5"
   },
   {
     "id": "star_sport_select_1",
@@ -1554,12 +1398,6 @@
     "m3u8": "https://tvsen6.aynaott.com/RDSSocialTV/index.m3u8?e=1753741268&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=7432654ac70d7dcb18c69ebc82caafac"
   },
   {
-    "id": "power_turk",
-    "title": "Power Turk",
-    "category": "Music",
-    "m3u8": "https://tvsen6.aynaott.com/PowerTurkTV/index.m3u8?e=1753741269&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=9dbf00fffade98598b7e4b9cdbebc66c"
-  },
-  {
     "id": "9xm",
     "title": "9XM",
     "category": "Music",
@@ -1582,12 +1420,6 @@
     "title": "Dhoom Music Bangla",
     "category": "Music",
     "m3u8": "https://tvsen6.aynaott.com/dhoom/index.m3u8?e=1753741270&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=b891b96ca0aebcc033c8ccdaf5be124a"
-  },
-  {
-    "id": "power_turk",
-    "title": "Power Turk",
-    "category": "Türkiye",
-    "m3u8": "https://tvsen6.aynaott.com/PowerTurkTV/index.m3u8?e=1753741272&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=12487bb826c21584d19a8b241d46e893"
   },
   {
     "id": "zee_bangla_international",
