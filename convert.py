@@ -180,12 +180,6 @@ def main():
         except Exception as e:
             print(f"  Skipped {url}: {e}")
 
-    # Bring in existing channels from tv.json
-    existing = load_existing_json(Path("tv.json"))
-    if existing:
-        print(f"Merging with existing {len(existing)} channels from tv.json")
-    all_channels.extend(existing)
-
     # Dedupe by m3u8 URL
     deduped: Dict[str, Dict] = {}
     for ch in all_channels:
