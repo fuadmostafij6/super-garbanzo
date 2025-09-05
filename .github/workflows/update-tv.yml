@@ -37,12 +37,12 @@ jobs:
 
       - name: Run converter
         run: |
-          python --version
           if [ -f "convert.py" ]; then
             python convert.py
           else
             echo "convert.py not found; skipping conversion."
           fi
+
 
       - name: Configure git
         run: |

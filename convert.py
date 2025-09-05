@@ -17,10 +17,59 @@ OUTPUT_FILE = Path("merge.json")
 
 
 def fetch_m3u(url: str) -> str:
-    headers = {"User-Agent": "Mozilla/5.0 (compatible; M3U-Merger/1.0)"}
-    r = requests.get(url, headers=headers, timeout=20)
-    r.raise_for_status()
-    return r.text
+    """Fetch M3U content with enhanced error handling and debugging"""
+    import os
+    
+    # Try different user agents for better compatibility
+    user_agents = [
+        "Mozilla/5.0 (compatible; M3U-Merger/1.0)",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+        "python-requests/2.32.3"
+    ]
+    
+    # If running in GitHub Actions, try GitHub-specific user agent first
+    if os.environ.get("GITHUB_ACTIONS"):
+        user_agents.insert(0, "GitHub-Actions/1.0")
+    
+    last_error = None
+    
+    for i, user_agent in enumerate(user_agents):
+        try:
+            print(f"  Trying user agent {i+1}/{len(user_agents)}: {user_agent[:50]}...")
+            headers = {"User-Agent": user_agent}
+            
+            # Try with different timeouts
+            for timeout in [15, 25, 35]:
+                try:
+                    r = requests.get(url, headers=headers, timeout=timeout)
+                    print(f"  Status: {r.status_code}, Content-Length: {len(r.text)}")
+                    
+                    if r.status_code == 200:
+                        if r.text.strip().startswith('#EXTM3U'):
+                            print(f"  ✓ Successfully fetched M3U content")
+                            return r.text
+                        else:
+                            print(f"  ✗ Content doesn't look like M3U (first 100 chars: {r.text[:100]})")
+                    else:
+                        print(f"  ✗ HTTP {r.status_code}: {r.text[:200]}")
+                        
+                except requests.exceptions.Timeout:
+                    print(f"  ✗ Timeout after {timeout}s")
+                    last_error = f"Timeout after {timeout}s"
+                except requests.exceptions.ConnectionError as e:
+                    print(f"  ✗ Connection error: {e}")
+                    last_error = f"Connection error: {e}"
+                except requests.exceptions.RequestException as e:
+                    print(f"  ✗ Request error: {e}")
+                    last_error = f"Request error: {e}"
+                    
+        except Exception as e:
+            print(f"  ✗ Unexpected error: {e}")
+            last_error = f"Unexpected error: {e}"
+    
+    # If all attempts failed, raise the last error
+    raise Exception(f"Failed to fetch {url} after trying {len(user_agents)} user agents. Last error: {last_error}")
 
 
 def _parse_extinf_attributes(extinf_line: str) -> Dict[str, str]:
@@ -202,6 +251,12 @@ def parse_m3u(m3u_text: str):
 
 def is_m3u8_working(url: str, cookies: str = "", user_agent: str = "") -> bool:
     """Return True if the m3u8 URL responds successfully with optional cookies and user agent."""
+    import os
+    
+    # Use GitHub Actions user agent if in CI environment
+    if os.environ.get("GITHUB_ACTIONS") and not user_agent:
+        user_agent = "GitHub-Actions/1.0"
+    
     headers = {"User-Agent": user_agent or "Mozilla/5.0 (compatible; M3U-Merger/1.0)"}
     
     # Parse cookies if provided
@@ -296,17 +351,20 @@ def load_existing_json(path: Path) -> List[Dict]:
 
 def main():
     print("Fetching M3U playlists...")
+    
     all_channels: List[Dict] = []
 
-    for url in M3U_URLS:
+    for i, url in enumerate(M3U_URLS, 1):
         try:
-            print(f"- Downloading: {url}")
+            print(f"\n[{i}/{len(M3U_URLS)}] Downloading: {url}")
             m3u_text = fetch_m3u(url)
             parsed = parse_m3u(m3u_text)
-            print(f"  Parsed {len(parsed)} entries")
+            print(f"  ✓ Parsed {len(parsed)} entries")
             all_channels.extend(parsed)
         except Exception as e:
-            print(f"  Skipped {url}: {e}")
+            print(f"  ✗ Skipped {url}: {e}")
+            # Continue with other URLs even if one fails
+            continue
 
     # Dedupe by m3u8 URL
     deduped: Dict[str, Dict] = {}
@@ -327,27 +385,7 @@ def main():
     working_channels: List[Dict] = []
     checked = 0
     
-    # Debug: Test first few channels to see what's happening
-    test_count = min(5, len(deduped))
-    print(f"Testing first {test_count} channels for debugging...")
-    
-    for m3u8_url, ch in list(deduped.items())[:test_count]:
-        checked += 1
-        cookies = ch.get("cookies", "")
-        user_agent = ch.get("user_agent", "")
-        print(f"\nTesting channel {checked}: {ch.get('title', '')}")
-        print(f"URL: {m3u8_url}")
-        print(f"Has cookies: {bool(cookies)}")
-        print(f"Has user agent: {bool(user_agent)}")
-        
-        ok = is_m3u8_working(m3u8_url, cookies, user_agent)
-        status = "OK" if ok else "DOWN"
-        print(f"[{checked}/{test_count}] {status} - {ch.get('title', '')}")
-        if ok:
-            working_channels.append(ch)
-    
-    # Continue with remaining channels
-    for m3u8_url, ch in list(deduped.items())[test_count:]:
+    for m3u8_url, ch in deduped.items():
         checked += 1
         cookies = ch.get("cookies", "")
         user_agent = ch.get("user_agent", "")
