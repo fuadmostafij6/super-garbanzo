@@ -1,5 +1,248 @@
 [
   {
+    "id": "star_sports_1",
+    "title": "Star Sports 1",
+    "category": "CricHD 1",
+    "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/16-by-xfireflix.png",
+    "tvg_id": "",
+    "tvg_chno": "",
+    "m3u8": "https://d9.merichunidya.com:1686/hls/star1in.m3u8?md5=MKC7P0sI8iHPqf0oLHdnwg&expires=1757048563"
+  },
+  {
+    "id": "star_sports_1_hindi",
+    "title": "Star Sports 1 Hindi",
+    "category": "CricHD 1",
+    "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1-by-xfireflix.png",
+    "tvg_id": "",
+    "tvg_chno": "",
+    "m3u8": "https://d3.merichunidya.com:1686/hls/starhindi.m3u8?md5=99Od_k-NkGkrw5ZCiGd02g&expires=1757048563"
+  },
+  {
+    "id": "ptv_sports",
+    "title": "PTV Sports",
+    "category": "CricHD 1",
+    "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png",
+    "tvg_id": "",
+    "tvg_chno": "",
+    "m3u8": "https://d3.merichunidya.com:1686/hls/ptvpk.m3u8?md5=z9-Ws7200BcWZpML0GyU0Q&expires=1757048564"
+  },
+  {
+    "id": "willow_hd",
+    "title": "Willow HD",
+    "category": "CricHD 1",
+    "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/38-by-xfireflix.png",
+    "tvg_id": "",
+    "tvg_chno": "",
+    "m3u8": "https://d9.merichunidya.com:1686/hls/willowusa.m3u8?md5=0oDSIn8Elm3eL6o46OvArA&expires=1757048564"
+  },
+  {
+    "id": "willow_hd_2",
+    "title": "Willow HD 2",
+    "category": "CricHD 1",
+    "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/8-by-xfireflix.png",
+    "tvg_id": "",
+    "tvg_chno": "",
+    "m3u8": "https://d3.merichunidya.com:1686/hls/willowextra.m3u8?md5=eP4yVLzM5z4P6xTOZB2Ofw&expires=1757048564"
+  },
+  {
+    "id": "ten_sports",
+    "title": "Ten Sports",
+    "category": "CricHD 1",
+    "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/10-by-xfireflix.png",
+    "tvg_id": "",
+    "tvg_chno": "",
+    "m3u8": "https://d3.merichunidya.com:1686/hls/tenspk.m3u8?md5=LZIS3v8TE0ddr3qgUJ7h1w&expires=1757048564"
+  },
+  {
+    "id": "a_sports_hd",
+    "title": "A Sports HD",
+    "category": "CricHD 1",
+    "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/12-by-xfireflix.png",
+    "tvg_id": "",
+    "tvg_chno": "",
+    "m3u8": "https://d10.merichunidya.com:1686/hls/asportshd.m3u8?md5=ldnQoptN-4qu_z-Zcph2ng&expires=1757048564"
+  },
+  {
+    "id": "sky_sports_cricket",
+    "title": "Sky Sports Cricket",
+    "category": "CricHD 1",
+    "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/9-by-xfireflix.png",
+    "tvg_id": "",
+    "tvg_chno": "",
+    "m3u8": "https://d10.merichunidya.com:1686/hls/skyscric.m3u8?md5=jPXdY5BfqbPsqFs0HU_qiQ&expires=1757048564"
+  },
+  {
+    "id": "sky_sports_main_event",
+    "title": "Sky Sports Main Event",
+    "category": "CricHD 1",
+    "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/18-by-xfireflix.png",
+    "tvg_id": "",
+    "tvg_chno": "",
+    "m3u8": "https://d6.merichunidya.com:1686/hls/skysme.m3u8?md5=JXIBoLbdA8SGU9LibdSpMA&expires=1757048564"
+  },
+  {
+    "id": "tnt_1",
+    "title": "TNT 1",
+    "category": "CricHD 1",
+    "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png",
+    "tvg_id": "",
+    "tvg_chno": "",
+    "m3u8": "https://d3.merichunidya.com:1686/hls/bbtsp1.m3u8?md5=ki0uoh4BRb_lrwWldW5hQw&expires=1757048564"
+  },
+  {
+    "id": "tnt_2",
+    "title": "TNT 2",
+    "category": "CricHD 1",
+    "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png",
+    "tvg_id": "",
+    "tvg_chno": "",
+    "m3u8": "https://d3.merichunidya.com:1686/hls/bbtsp2.m3u8?md5=l-hURSAbmANwsQYSmFNyJA&expires=1757048564"
+  },
+  {
+    "id": "tnt_3",
+    "title": "TNT 3",
+    "category": "CricHD 1",
+    "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png",
+    "tvg_id": "",
+    "tvg_chno": "",
+    "m3u8": "https://d1.merichunidya.com:1686/hls/bbtsp3.m3u8?md5=OIYergTfQRb8yXs8U9fQcw&expires=1757048564"
+  },
+  {
+    "id": "tnt_4",
+    "title": "TNT 4",
+    "category": "CricHD 1",
+    "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png",
+    "tvg_id": "",
+    "tvg_chno": "",
+    "m3u8": "https://d8.merichunidya.com:1686/hls/bbtespn.m3u8?md5=KCADgsgKYcGLdN0gnC4ETg&expires=1757048564"
+  },
+  {
+    "id": "sky_cinema",
+    "title": "Sky Cinema",
+    "category": "CricHD 1",
+    "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/skycinema.png",
+    "tvg_id": "",
+    "tvg_chno": "",
+    "m3u8": "https://d9.merichunidya.com:1686/hls/skysme.m3u8?md5=x9ds4-rKcYltTUGSDJOEMw&expires=1757048565"
+  },
+  {
+    "id": "sky_sports_action",
+    "title": "Sky Sports Action",
+    "category": "CricHD 1",
+    "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745007829332.png",
+    "tvg_id": "",
+    "tvg_chno": "",
+    "m3u8": "https://d5.merichunidya.com:1686/hls/skysact.m3u8?md5=bK5-jGRJoIBWqCTe0HPVqw&expires=1757048565"
+  },
+  {
+    "id": "sky_sports_golf",
+    "title": "Sky Sports Golf",
+    "category": "CricHD 1",
+    "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008055327.png",
+    "tvg_id": "",
+    "tvg_chno": "",
+    "m3u8": "https://d9.merichunidya.com:1686/hls/skysgol.m3u8?md5=q4RtrKeG0W4kx2hCD4S4Dg&expires=1757048565"
+  },
+  {
+    "id": "sky_sports_premier_league",
+    "title": "Sky Sports Premier League",
+    "category": "CricHD 1",
+    "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/43-by-xfireflix.png",
+    "tvg_id": "",
+    "tvg_chno": "",
+    "m3u8": "https://d2.merichunidya.com:1686/hls/skysprem.m3u8?md5=5S-k6cQIaWFtfqtcGtsWcA&expires=1757048565"
+  },
+  {
+    "id": "sky_sports_football",
+    "title": "Sky Sports Football",
+    "category": "CricHD 1",
+    "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/44-by-xfireflix.png",
+    "tvg_id": "",
+    "tvg_chno": "",
+    "m3u8": "https://d2.merichunidya.com:1686/hls/skysfott.m3u8?md5=-KCzigSC0vW_O6PF2yvR-g&expires=1757048565"
+  },
+  {
+    "id": "sky_sports_plus",
+    "title": "Sky Sports Plus",
+    "category": "CricHD 1",
+    "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008347584.png",
+    "tvg_id": "",
+    "tvg_chno": "",
+    "m3u8": "https://d1.merichunidya.com:1686/hls/skysare.m3u8?md5=st8nWa1pdhdVRq1VFqojBA&expires=1757048566"
+  },
+  {
+    "id": "sky_sports_f1",
+    "title": "Sky Sports F1",
+    "category": "CricHD 1",
+    "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008468637.png",
+    "tvg_id": "",
+    "tvg_chno": "",
+    "m3u8": "https://d4.merichunidya.com:1686/hls/skysfor1.m3u8?md5=kxQp_oauxdDhTMDt03oztw&expires=1757048566"
+  },
+  {
+    "id": "laliga",
+    "title": "LaLiGA",
+    "category": "CricHD 1",
+    "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/19-by-xfireflix.png",
+    "tvg_id": "",
+    "tvg_chno": "",
+    "m3u8": "https://d1.merichunidya.com:1686/hls/laligauk.m3u8?md5=DIJvG3_T13DCExh0mEy1_g&expires=1757048566"
+  },
+  {
+    "id": "premier_sports_1",
+    "title": "Premier Sports 1",
+    "category": "CricHD 1",
+    "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/31-by-xfireflix.png",
+    "tvg_id": "",
+    "tvg_chno": "",
+    "m3u8": "https://d1.merichunidya.com:1686/hls/premieruk.m3u8?md5=-5zu-TrYSN5DKimGbOc_rg&expires=1757048566"
+  },
+  {
+    "id": "premier_sports_2",
+    "title": "Premier Sports 2",
+    "category": "CricHD 1",
+    "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/31-by-xfireflix.png",
+    "tvg_id": "",
+    "tvg_chno": "",
+    "m3u8": "https://d6.merichunidya.com:1686/hls/hdchnl2.m3u8?md5=c632k1vz9uFFccX92b6Vng&expires=1757048566"
+  },
+  {
+    "id": "super_football",
+    "title": "Super Football",
+    "category": "CricHD 1",
+    "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/34-by-xfireflix.png",
+    "tvg_id": "",
+    "tvg_chno": "",
+    "m3u8": "https://d6.merichunidya.com:1686/hls/superfotball.m3u8?md5=hdu67r4h63apcNVFctuuuA&expires=1757048566"
+  },
+  {
+    "id": "sky_sports_arena",
+    "title": "Sky Sports Arena",
+    "category": "CricHD 1",
+    "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745007829327.png",
+    "tvg_id": "",
+    "tvg_chno": "",
+    "m3u8": "https://d8.merichunidya.com:1686/hls/skysare.m3u8?md5=st8nWa1pdhdVRq1VFqojBA&expires=1757048566"
+  },
+  {
+    "id": "sky_sports_mix",
+    "title": "Sky Sports Mix",
+    "category": "CricHD 1",
+    "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/13-by-xfireflix.png",
+    "tvg_id": "",
+    "tvg_chno": "",
+    "m3u8": "https://d2.merichunidya.com:1686/hls/skysmixx.m3u8?md5=jbHMyMVconIH2b_twmvD5Q&expires=1757048566"
+  },
+  {
+    "id": "sky_sports_tennis",
+    "title": "Sky Sports Tennis",
+    "category": "CricHD 1",
+    "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745009085794.png",
+    "tvg_id": "",
+    "tvg_chno": "",
+    "m3u8": "https://d8.merichunidya.com:1686/hls/skystennis.m3u8?md5=ZttsTiIXXGORe-VHXXqScw&expires=1757048566"
+  },
+  {
     "id": "t_sports_live_01",
     "title": "T Sports Live 01",
     "category": "LIVE",
@@ -421,6 +664,15 @@
     "tvg_id": "a5b1267e-7ee9-42b0-958e-9cc739b84e6a",
     "tvg_chno": "",
     "m3u8": "https://tvsen6.aynaott.com/AllSportsTelevisionNetwork/index.m3u8?e=1753741208&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=2eaf3820886dc80336bcde44828de771"
+  },
+  {
+    "id": "dubai_sports_1",
+    "title": "DUBAI SPORTS 1",
+    "category": "Channels",
+    "logo": "https://s3.aynaott.com/storage/5a8ac139e9c791c675ded04dd7f90529",
+    "tvg_id": "a51ed57c-a9cb-4dcb-9160-eb0726835c45",
+    "tvg_chno": "",
+    "m3u8": "https://tvsen6.aynaott.com/dubaisports1/index.m3u8?e=1753741208&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=288064acc4916f858e24ae2b57f03a5b"
   },
   {
     "id": "talk_sport",
