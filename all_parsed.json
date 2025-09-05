@@ -6,7 +6,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/16-by-xfireflix.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d6.merichunidya.com:1686/hls/star1in.m3u8?md5=qLh3EDkIZ2v6Jnje7bbkeg&expires=1757032878"
+    "m3u8": "https://d7.merichunidya.com:1686/hls/star1in.m3u8?md5=YTujt7O85SvKPgY1HATHpw&expires=1757036384"
   },
   {
     "id": "star_sports_1_hindi",
@@ -15,7 +15,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1-by-xfireflix.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d7.merichunidya.com:1686/hls/starhindi.m3u8?md5=4n5SrV4D0pxfSDHcEdf0pA&expires=1757032878"
+    "m3u8": "https://d5.merichunidya.com:1686/hls/starhindi.m3u8?md5=9BEpaYNCo_IxgzriBEdq2w&expires=1757036385"
   },
   {
     "id": "ptv_sports",
@@ -24,7 +24,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d7.merichunidya.com:1686/hls/ptvpk.m3u8?md5=WkFZ2aRz0Srkx2ESDc0zeA&expires=1757032878"
+    "m3u8": "https://d8.merichunidya.com:1686/hls/ptvpk.m3u8?md5=sAM2uHigp8YOGiq0PYH0Bg&expires=1757036385"
   },
   {
     "id": "willow_hd",
@@ -33,7 +33,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/38-by-xfireflix.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d7.merichunidya.com:1686/hls/willowusa.m3u8?md5=M87sW0YlEQvki82XUAT-mQ&expires=1757032878"
+    "m3u8": "https://d1.merichunidya.com:1686/hls/willowusa.m3u8?md5=jtAt4m-TUOF97jPSYKdlJA&expires=1757036386"
   },
   {
     "id": "willow_hd_2",
@@ -42,7 +42,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/8-by-xfireflix.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d6.merichunidya.com:1686/hls/willowextra.m3u8?md5=MAoIHlr8MrcheUo9YC4gQA&expires=1757032879"
+    "m3u8": "https://d4.merichunidya.com:1686/hls/willowextra.m3u8?md5=O8vIyz0oUP4lqQcfHEDSUA&expires=1757036386"
   },
   {
     "id": "ten_sports",
@@ -51,7 +51,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/10-by-xfireflix.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d7.merichunidya.com:1686/hls/tenspk.m3u8?md5=_slfRTjHpAX5GfOpEs8slg&expires=1757032879"
+    "m3u8": "https://d8.merichunidya.com:1686/hls/tenspk.m3u8?md5=tGjowDx9rBqDkJkd1xwhSg&expires=1757036386"
   },
   {
     "id": "a_sports_hd",
@@ -60,7 +60,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/12-by-xfireflix.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d4.merichunidya.com:1686/hls/asportshd.m3u8?md5=UP0W9_DTvDghHdHLmiut0Q&expires=1757032879"
+    "m3u8": "https://d8.merichunidya.com:1686/hls/asportshd.m3u8?md5=zC1Go6QBGCkMU6q_zsBotA&expires=1757036386"
   },
   {
     "id": "sky_sports_cricket",
@@ -69,16 +69,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/9-by-xfireflix.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d7.merichunidya.com:1686/hls/skyscric.m3u8?md5=KjRH12AjR5lb7D3IGzBXng&expires=1757032879"
-  },
-  {
-    "id": "sky_sports_main_event",
-    "title": "Sky Sports Main Event",
-    "category": "CricHD 1",
-    "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/18-by-xfireflix.png",
-    "tvg_id": "",
-    "tvg_chno": "",
-    "m3u8": "https://d3.merichunidya.com:1686/hls/skysme.m3u8?md5=0_s_RILSD8RqL0BCLhpNIw&expires=1757032879"
+    "m3u8": "https://d2.merichunidya.com:1686/hls/skyscric.m3u8?md5=zQmiUTmb_dQw-OABN1qd2Q&expires=1757036386"
   },
   {
     "id": "tnt_1",
@@ -87,7 +78,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d5.merichunidya.com:1686/hls/bbtsp1.m3u8?md5=oeFLLvFCoFbPvaZQkOZuoQ&expires=1757032879"
+    "m3u8": "https://d2.merichunidya.com:1686/hls/bbtsp1.m3u8?md5=V5g5MQ59oj-zCRpEy2K7dA&expires=1757036387"
   },
   {
     "id": "tnt_2",
@@ -96,7 +87,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d8.merichunidya.com:1686/hls/bbtsp2.m3u8?md5=4KYUr62g0T3IXL4skrOIgg&expires=1757032879"
+    "m3u8": "https://d4.merichunidya.com:1686/hls/bbtsp2.m3u8?md5=OU1DyIbvbyETLpvob3QdXw&expires=1757036387"
   },
   {
     "id": "tnt_3",
@@ -105,7 +96,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d8.merichunidya.com:1686/hls/bbtsp3.m3u8?md5=Hfomq-N3J3kIh1E5BRAkRg&expires=1757032879"
+    "m3u8": "https://d4.merichunidya.com:1686/hls/bbtsp3.m3u8?md5=AZnRgBLa8wXEn-aIhWkzFg&expires=1757036387"
   },
   {
     "id": "tnt_4",
@@ -114,7 +105,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d4.merichunidya.com:1686/hls/bbtespn.m3u8?md5=ocb_gy3iuqlOoMVJacAN2A&expires=1757032880"
+    "m3u8": "https://d8.merichunidya.com:1686/hls/bbtespn.m3u8?md5=krekfXENij0g1RfEJQq8hw&expires=1757036388"
   },
   {
     "id": "sky_sports_1",
@@ -123,7 +114,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d6.merichunidya.com:1686/hls/sky1nz.m3u8?md5=3DqV850oGcOUsPorFfxqsg&expires=1757032880"
+    "m3u8": "https://d10.merichunidya.com:1686/hls/sky1nz.m3u8?md5=vbyMpVdEa3ge2zBvz_u7Tg&expires=1757036388"
   },
   {
     "id": "sky_sports_2",
@@ -132,7 +123,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d7.merichunidya.com:1686/hls/sky2nz.m3u8?md5=YtS_VQDqzLpKEesRmR1qEA&expires=1757032880"
+    "m3u8": "https://d1.merichunidya.com:1686/hls/sky2nz.m3u8?md5=ZjdEyZNuAUqlJC7azTlMBA&expires=1757036388"
   },
   {
     "id": "sky_sports_3",
@@ -141,7 +132,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d2.merichunidya.com:1686/hls/sky3nz.m3u8?md5=YsQjl9kOVNmuU_UvKEM2BA&expires=1757032880"
+    "m3u8": "https://d8.merichunidya.com:1686/hls/sky3nz.m3u8?md5=cLNeNkIR7BBKlCn-pGXTpQ&expires=1757036389"
   },
   {
     "id": "sky_sports_4",
@@ -150,7 +141,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d6.merichunidya.com:1686/hls/sky4nz.m3u8?md5=RhLhVuPkpL8bv7Q2zHYM-Q&expires=1757032880"
+    "m3u8": "https://d2.merichunidya.com:1686/hls/sky4nz.m3u8?md5=q76Azw6BLPMBF_t_M4xOXA&expires=1757036389"
   },
   {
     "id": "sky_sports_5",
@@ -159,7 +150,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d6.merichunidya.com:1686/hls/sky5nz.m3u8?md5=ssKPHO8T3MsgLdqpRVZT7g&expires=1757032880"
+    "m3u8": "https://d3.merichunidya.com:1686/hls/sky5nz.m3u8?md5=_Ex6XWsNoY77bN7H8Yw_Kg&expires=1757036389"
   },
   {
     "id": "sky_sports_6",
@@ -168,7 +159,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d1.merichunidya.com:1686/hls/sky6nz.m3u8?md5=B_usFTpZf9DMh9Cb_TFrew&expires=1757032880"
+    "m3u8": "https://d7.merichunidya.com:1686/hls/sky6nz.m3u8?md5=9oLuAYuY02CtjqWkxA8v1g&expires=1757036390"
   },
   {
     "id": "sky_sports_7",
@@ -177,7 +168,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d6.merichunidya.com:1686/hls/sky7nz.m3u8?md5=-PAWSuuYATatFk50nlzXSg&expires=1757032880"
+    "m3u8": "https://d8.merichunidya.com:1686/hls/sky7nz.m3u8?md5=2iAnVjK0g9UPPn253P4L_Q&expires=1757036390"
   },
   {
     "id": "sky_sports_8",
@@ -186,7 +177,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d10.merichunidya.com:1686/hls/sky8nz.m3u8?md5=sbkV2tCnSEdcvYHrEd7GjQ&expires=1757032881"
+    "m3u8": "https://d3.merichunidya.com:1686/hls/sky8nz.m3u8?md5=wbSKdfF73lj_1S6FTFq-9A&expires=1757036390"
   },
   {
     "id": "sky_sports_9",
@@ -195,16 +186,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d6.merichunidya.com:1686/hls/sky9nz.m3u8?md5=aVKQKH1AqQET1MZ1GP7RTw&expires=1757032881"
-  },
-  {
-    "id": "sky_cinema",
-    "title": "Sky Cinema",
-    "category": "CricHD 1",
-    "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/skycinema.png",
-    "tvg_id": "",
-    "tvg_chno": "",
-    "m3u8": "https://d1.merichunidya.com:1686/hls/skysme.m3u8?md5=Hlg1_UH9ZloVRUiXQAcqiA&expires=1757032881"
+    "m3u8": "https://d4.merichunidya.com:1686/hls/sky9nz.m3u8?md5=56Lg8NvjN7r_waWhra8-DA&expires=1757036390"
   },
   {
     "id": "sky_sports_action",
@@ -213,7 +195,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745007829332.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d4.merichunidya.com:1686/hls/skysact.m3u8?md5=-T_9DSNJxORSctPzkFG2KQ&expires=1757032881"
+    "m3u8": "https://d5.merichunidya.com:1686/hls/skysact.m3u8?md5=VdR8ZX7DBmk010gJHULMkQ&expires=1757036390"
   },
   {
     "id": "sky_sports_golf",
@@ -222,7 +204,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008055327.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d3.merichunidya.com:1686/hls/skysgol.m3u8?md5=voJol77Lcw1Qi8oAxxBmJQ&expires=1757032881"
+    "m3u8": "https://d10.merichunidya.com:1686/hls/skysgol.m3u8?md5=zt_iYF85XbVLT8q-Q3giMg&expires=1757036391"
   },
   {
     "id": "sky_sports_premier_league",
@@ -231,7 +213,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/43-by-xfireflix.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d9.merichunidya.com:1686/hls/skysprem.m3u8?md5=9PoqmYt6m_nbRmxBOaM59g&expires=1757032881"
+    "m3u8": "https://d3.merichunidya.com:1686/hls/skysprem.m3u8?md5=5r1b_Lwr6tBPR4ZigS5YEQ&expires=1757036391"
   },
   {
     "id": "sky_sports_football",
@@ -240,7 +222,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/44-by-xfireflix.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d2.merichunidya.com:1686/hls/skysfott.m3u8?md5=xNkQPCydwzIqPskDICvz0w&expires=1757032881"
+    "m3u8": "https://d8.merichunidya.com:1686/hls/skysfott.m3u8?md5=ltZ_CAVFHWnVo3hOVLiswg&expires=1757036391"
   },
   {
     "id": "sky_sports_plus",
@@ -249,7 +231,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008347584.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d5.merichunidya.com:1686/hls/skysare.m3u8?md5=eT7PmPAeigf__026Lv2VbQ&expires=1757032881"
+    "m3u8": "https://d10.merichunidya.com:1686/hls/skysare.m3u8?md5=tLn8FE3-3UJmnMZQyAwbxA&expires=1757036391"
   },
   {
     "id": "sky_sports_f1",
@@ -258,7 +240,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008468637.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d5.merichunidya.com:1686/hls/skysfor1.m3u8?md5=Endd8154M5stFo3H_eBrOw&expires=1757032882"
+    "m3u8": "https://d3.merichunidya.com:1686/hls/skysfor1.m3u8?md5=DLqjSyAqQGfMKZS8I35rTA&expires=1757036391"
   },
   {
     "id": "laliga",
@@ -267,7 +249,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/19-by-xfireflix.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d3.merichunidya.com:1686/hls/laligauk.m3u8?md5=whMTzGppakm20Cc2AgBLig&expires=1757032882"
+    "m3u8": "https://d1.merichunidya.com:1686/hls/laligauk.m3u8?md5=rWZKgXyiWWn2NrxntdI7iA&expires=1757036392"
   },
   {
     "id": "premier_sports_1",
@@ -276,7 +258,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/31-by-xfireflix.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d5.merichunidya.com:1686/hls/premieruk.m3u8?md5=QDk0yljHxCPKCTzIl6a_iQ&expires=1757032882"
+    "m3u8": "https://d3.merichunidya.com:1686/hls/premieruk.m3u8?md5=gqAbZSsO5H_Ewx3i4HJkLQ&expires=1757036392"
   },
   {
     "id": "premier_sports_2",
@@ -285,7 +267,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/31-by-xfireflix.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d8.merichunidya.com:1686/hls/hdchnl2.m3u8?md5=p6eYCQw7-6WXnO9yvgvyzg&expires=1757032882"
+    "m3u8": "https://d9.merichunidya.com:1686/hls/hdchnl2.m3u8?md5=Fr-qVBRpg777O8HOgHt_sw&expires=1757036392"
   },
   {
     "id": "super_football",
@@ -294,7 +276,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/34-by-xfireflix.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d4.merichunidya.com:1686/hls/superfotball.m3u8?md5=ctSHVH3HvsaVZxnJB_Wk1w&expires=1757032882"
+    "m3u8": "https://d7.merichunidya.com:1686/hls/superfotball.m3u8?md5=PB-lqfrRSwdXfxQuttaS-A&expires=1757036392"
   },
   {
     "id": "super_premier_league",
@@ -303,7 +285,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008781606.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d7.merichunidya.com:1686/hls/superpremier.m3u8?md5=clCWMjgzFiyT-AkxbCKF8g&expires=1757032882"
+    "m3u8": "https://d5.merichunidya.com:1686/hls/superpremier.m3u8?md5=dFJLkeGgOxxChCaqt5QzMA&expires=1757036393"
   },
   {
     "id": "astro_cricket",
@@ -312,7 +294,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008895589.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d5.merichunidya.com:1686/hls/fox501.m3u8?md5=V949a95O2D0cyoByQ1wKwg&expires=1757032882"
+    "m3u8": "https://d4.merichunidya.com:1686/hls/fox501.m3u8?md5=MFSVn1xqPispbMXr_o69nA&expires=1757036393"
   },
   {
     "id": "espn_1",
@@ -321,7 +303,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/17-by-xfireflix.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d5.merichunidya.com:1686/hls/espnusa.m3u8?md5=9DD9edo6S7541EMaXy3dnQ&expires=1757032882"
+    "m3u8": "https://d1.merichunidya.com:1686/hls/espnusa.m3u8?md5=Ylj05TWNVWirNAyzhYj9Dg&expires=1757036393"
   },
   {
     "id": "espn_2",
@@ -330,7 +312,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/17-by-xfireflix.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d9.merichunidya.com:1686/hls/espn2.m3u8?md5=i9v7z5HaKPNOAzTTCCldww&expires=1757032883"
+    "m3u8": "https://d3.merichunidya.com:1686/hls/espn2.m3u8?md5=TQsn4iRTnfzZqpipZKuaow&expires=1757036393"
   },
   {
     "id": "sky_sports_arena",
@@ -339,7 +321,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745007829327.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d5.merichunidya.com:1686/hls/skysare.m3u8?md5=ZxGcp16rH4lTb6mNQdt0EA&expires=1757032883"
+    "m3u8": "https://d3.merichunidya.com:1686/hls/skysare.m3u8?md5=gfWiBq-vqRWBpEpyN8gThQ&expires=1757036394"
   },
   {
     "id": "sky_sports_mix",
@@ -348,7 +330,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/13-by-xfireflix.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d3.merichunidya.com:1686/hls/skysmixx.m3u8?md5=lF3foqA9odxsDdaObhld9A&expires=1757032883"
+    "m3u8": "https://d4.merichunidya.com:1686/hls/skysmixx.m3u8?md5=7oDjO0VNb78rHyPvpCdEGA&expires=1757036395"
   },
   {
     "id": "sky_sports_tennis",
@@ -357,7 +339,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745009085794.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d7.merichunidya.com:1686/hls/skystennis.m3u8?md5=Tfyr41Zu7j2s2X3Mern69A&expires=1757032883"
+    "m3u8": "https://d6.merichunidya.com:1686/hls/skystennis.m3u8?md5=LArrNtzViP72FJXFn7ba8g&expires=1757036395"
   },
   {
     "id": "fox_cricket_501_hd",
@@ -366,7 +348,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/6-by-xfireflix.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d5.merichunidya.com:1686/hls/fox501.m3u8?md5=Zf0EXUKUKaYe-ujKTMUeoQ&expires=1757032883"
+    "m3u8": "https://d5.merichunidya.com:1686/hls/fox501.m3u8?md5=9NQVj3QhJ94HYAKfTT_6cg&expires=1757036395"
   },
   {
     "id": "sony_sports3",
@@ -375,7 +357,7 @@
     "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1000173192-modified.png",
     "tvg_id": "",
     "tvg_chno": "",
-    "m3u8": "https://d2.merichunidya.com:1686/hls/ten1hd.m3u8?md5=FJNntAGCpdv6IEf73d0w8Q&expires=1757032883"
+    "m3u8": "https://d2.merichunidya.com:1686/hls/ten1hd.m3u8?md5=ueMkYjiluJaXVkzPOfMaeA&expires=1757036396"
   },
   {
     "id": "sky_sports_cricket",
@@ -384,7 +366,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_cricket.png",
     "tvg_id": "skysp2",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/skyscric3.m3u8?md6=qCWBFI-DmVUIh4l3YCcCwA&expires=1757029773|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/skyscric3.m3u8?md6=Mn_MejmrLFiokW9bgIv1Lg&expires=1757033278|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "t_sports_bd",
@@ -393,7 +375,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tsportsbd.png",
     "tvg_id": "gtv",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/bdgtv.m3u8?md6=luaNVe6YbP5UlL4bi6sInQ&expires=1757029774|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/bdgtv.m3u8?md6=Lm3RLSpTC8D2wgbIoMlLPw&expires=1757033279|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "willow",
@@ -402,7 +384,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/willow.png",
     "tvg_id": "willow",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/willowuse.m3u8?md6=vCOsrRRh0ceeG1UqGqFu-A&expires=1757029775|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/willowuse.m3u8?md6=g9srto17GA6WVfqfGajoBg&expires=1757033280|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "star_sports_1",
@@ -411,7 +393,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/star_sports_1.png",
     "tvg_id": "starsp",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/starsp.m3u8?md6=Sn25cm3-Y60SNWsV0ajAxw&expires=1757029776|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/starsp.m3u8?md6=JGd-PN0AvewOYwwe_UCpIQ&expires=1757033281|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "star_sports_1_hindi",
@@ -420,7 +402,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/star_sports_1_hindi.png",
     "tvg_id": "starsp",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/starsp.m3u8?md6=V9PGblFvR-tMNOch6Ju-9g&expires=1757029777|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/starsp.m3u8?md6=iqCo2MYdQDwnywmHV6zMSQ&expires=1757033282|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "star_sports_2",
@@ -429,7 +411,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Star_Sports_2.png",
     "tvg_id": "starsp2",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/star2in.m3u8?md6=hjhHCzK_LLSpiGHHrmt2-w&expires=1757029778|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/star2in.m3u8?md6=5Zos78mpcAkwy54ikqGQ7Q&expires=1757033283|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "star_sports_3",
@@ -438,7 +420,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/star_sports3.jpg",
     "tvg_id": "starsp3",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/star1hi.m3u8?md6=dbuNJZNSpvoatQAUOE5IEA&expires=1757029779|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/star1hi.m3u8?md6=AWhp4q6YKBdH533lsXyNdg&expires=1757033284|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "ptv_sports",
@@ -447,7 +429,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/ptv_sports.png",
     "tvg_id": "ptvsp",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/ptvpk.m3u8?md6=cqod8fortacPIV9niksyjQ&expires=1757029780|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/ptvpk.m3u8?md6=SZGZb6nUxB1T4ADZaZQzfw&expires=1757033285|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "a_sports",
@@ -456,7 +438,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/a_sports.png",
     "tvg_id": "asports",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/asportiso.m3u8?md6=2jjwuCsU9lagQD8HBPSLMQ&expires=1757029781|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/asportiso.m3u8?md6=u6EK-o9ErR9qqZu6F7xSfw&expires=1757033286|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "ten_cricket",
@@ -465,7 +447,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/ten_cricket.png",
     "tvg_id": "tensp",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/tenspk.m3u8?md6=af8ndJ1RS_TGupEcnsYTDQ&expires=1757029781|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/tenspk.m3u8?md6=klAVfJV9XEzN61ggSBZn2w&expires=1757033286|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "geo_super",
@@ -474,7 +456,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/geo.jpg",
     "tvg_id": "geosuper",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/geosp.m3u8?md6=_tFpfJjqaRT32ee2Cfxmow&expires=1757029782|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/geosp.m3u8?md6=P5AavCA3Qbuz01hfImP9dQ&expires=1757033287|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "astro_cricket",
@@ -483,7 +465,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/astro_cricket.png",
     "tvg_id": "astrocric",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/astrocric.m3u8?md6=06qr3EcKV_kPz0DDafR9TQ&expires=1757029783|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/astrocric.m3u8?md6=GqPXLN9BHdEuG-Z2mapciw&expires=1757033288|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "sky_sports_main_event",
@@ -492,7 +474,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_main_event.png",
     "tvg_id": "skysp1",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/laxkiaxnasdjpdskykxahsdsme.m3u8?md6=_4QGjFMaW0Ql-NVktMPxFg&expires=1757029784|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/laxkiaxnasdjpdskykxahsdsme.m3u8?md6=rd68PuW-IzdfF2bT22AqkQ&expires=1757033289|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "sky_sports_football",
@@ -501,7 +483,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportsf.png",
     "tvg_id": "skyfb",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/kasdloasxaddskysfottadxasdllk.m3u8?md6=Q9LIWeQGLQZVA2LFra8ICA&expires=1757029785|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/kasdloasxaddskysfottadxasdllk.m3u8?md6=qe1cIwzmzjm78a8Idb878w&expires=1757033290|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "sky_sports_arena",
@@ -510,7 +492,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sports_areana.png",
     "tvg_id": "skyarena",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/amnoasdkaxasdsdkaskylolkjarejona.m3u8?md6=lwGJm3Dl4z64eQYaDitjCw&expires=1757029786|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/amnoasdkaxasdsdkaskylolkjarejona.m3u8?md6=ggmZbqBq7Un8EcGoXsNFGQ&expires=1757033291|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "sky_sports_action",
@@ -519,7 +501,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportaction.png",
     "tvg_id": "skysp3",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/skysact.m3u8?md6=4pQqOleWkGW_LmYmN3oLBQ&expires=1757029787|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/skysact.m3u8?md6=6aElqHnYqon6rpM-LjPoTg&expires=1757033292|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "sky_sports_golf",
@@ -528,7 +510,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportdglof.png",
     "tvg_id": "skysp4",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/skysgol.m3u8?md6=P8DB6VL1szGR_XvZIhWESg&expires=1757029787|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/skysgol.m3u8?md6=2C8W0proacTglcg3yuZWxw&expires=1757033292|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "sky_sports_premier_league",
@@ -537,7 +519,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportspr.png",
     "tvg_id": "skysp5",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/skypremol.m3u8?md6=hQw94MdennbFKVgL9sDxYw&expires=1757029788|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/skypremol.m3u8?md6=OvkpOYsquN-ZNcKVikxvrQ&expires=1757033293|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "sky_sports_f1",
@@ -546,7 +528,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_sportsl.png",
     "tvg_id": "skyspf1",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/adkslknyospfqqorrs1tuvw.m3u8?md6=o8gOMuQE8Z5UKkT75xFs9w&expires=1757029789|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/adkslknyospfqqorrs1tuvw.m3u8?md6=axq54zu94kaCn86UOf9sJg&expires=1757033294|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "sky_sports_mix",
@@ -555,7 +537,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/skysportmix.png",
     "tvg_id": "skymix",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/skysmixx.m3u8?md6=UBhmhTMpuViQdOrXzSfIsA&expires=1757029790|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/skysmixx.m3u8?md6=x0WpVohW0IogEjoI-fCU1w&expires=1757033295|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "sky_sports_tennis",
@@ -564,7 +546,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/sky_Sports_tenis.png",
     "tvg_id": "skyten",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/skyten.m3u8?md6=Ib8py8yZNWCaS8qw2IQwog&expires=1757029791|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/skyten.m3u8?md6=YY5dJBAu8vs5P7RFnOfK8w&expires=1757033296|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "supersport_cricket",
@@ -573,7 +555,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/sli.jpg",
     "tvg_id": "osncric",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/super2cric.m3u8?md6=rAUdOleodSgrsCGv4sfebA&expires=1757029792|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/super2cric.m3u8?md6=0F0_fdnw4b-tEjz16jG5EA&expires=1757033297|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "supersport_premier_league",
@@ -582,7 +564,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/ssp.png",
     "tvg_id": "supersp9",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/superprem.m3u8?md6=ggp-sPNaOMtHHpkf25W9qw&expires=1757029793|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/superprem.m3u8?md6=wbG7Xhyzk72CAHZk8pC46A&expires=1757033297|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "supersport_laliga",
@@ -591,7 +573,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/superla.jpg",
     "tvg_id": "supersp10",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/dasdadaskasdlaliga.m3u8?md6=Vff5ojDGBcoKpNQhLuQnsA&expires=1757029793|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/dasdadaskasdlaliga.m3u8?md6=smdXlPHQ94DR8ypV68XATQ&expires=1757033298|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "supersport_football",
@@ -600,7 +582,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Supersf.jpg",
     "tvg_id": "supersp8",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/superspfb.m3u8?md6=rT3N-xuSSPIRDDjCodEu-g&expires=1757029794|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/superspfb.m3u8?md6=TQJ52A3uxk4rIk28HK9TKg&expires=1757033299|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "supersport_action",
@@ -609,7 +591,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Supersa.jpg",
     "tvg_id": "supersp3",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/superspaction.m3u8?md6=1VcW4RLoaJbyeirhs1qyYg&expires=1757029795|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/superspaction.m3u8?md6=IAZ0NoE7fWejoq_xHzLB5A&expires=1757033300|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "supersport_grandstand",
@@ -618,7 +600,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Supersg.jpg",
     "tvg_id": "supersp6",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/supergs.m3u8?md6=IaU1zB17O66LB7zr5LJHwA&expires=1757029796|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/supergs.m3u8?md6=SS12dN6k754SuuSZg4e84g&expires=1757033301|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "tnt_sports_1",
@@ -627,7 +609,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt1.png",
     "tvg_id": "btsp1",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/bmkbh4ts42pads1ad1ad.m3u8?md6=UIZqHQg0dR_6BI1uBnLlOw&expires=1757029797|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/bmkbh4ts42pads1ad1ad.m3u8?md6=j1NLOGFlOhVmYJf1f3UDGg&expires=1757033302|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "tnt_sports_2",
@@ -636,7 +618,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt2.png",
     "tvg_id": "btsp2",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/bbasdadtasfafgsdsgpgdg2s.m3u8?md6=7G20KvBzd2ui5aPkE9F-tA&expires=1757029798|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/bbasdadtasfafgsdsgpgdg2s.m3u8?md6=VEj_PXL6NFhXEDgb_KDC4Q&expires=1757033303|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "tnt_sports_3",
@@ -645,7 +627,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt3.png",
     "tvg_id": "btsp3",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/keaffbasdbgsdgtgsdgsfgp43.m3u8?md6=nLVnreuKll7BnTcr8pnh2A&expires=1757029799|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/keaffbasdbgsdgtgsdgsfgp43.m3u8?md6=1cOjSJylfyYiarIppmg6BA&expires=1757033303|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "tnt_sports_4",
@@ -654,7 +636,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt4.png",
     "tvg_id": "btespn",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/basdbkklltadsnbpgh4io9.m3u8?md6=eBpsY6-4Z-5Qa87GCLGRmA&expires=1757029799|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/basdbkklltadsnbpgh4io9.m3u8?md6=Hz3EEMiPltrdXktVDjb2wA&expires=1757033304|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "sony_sports_ten_1",
@@ -663,7 +645,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/sony1.jpg",
     "tvg_id": "ten1",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/ten1endia.m3u8?md6=rlTHL0UXfp2bTfN0YgpmWA&expires=1757029800|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/ten1endia.m3u8?md6=g7G0wjKtllm0nfYdMb9euQ&expires=1757033305|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "criclife_1",
@@ -672,7 +654,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/criclife.jpg",
     "tvg_id": "criclife1",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/criclife1.m3u8?md6=cGjIVq9vLhkY-OwvZUADnA&expires=1757029801|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/criclife1.m3u8?md6=35ZsCkwnOI8xHiJ2EOSRow&expires=1757033306|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "criclife_2",
@@ -681,7 +663,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/criclife.jpg",
     "tvg_id": "criclife2",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/criclife2.m3u8?md6=h2nJpqjoR4LEENVLfObu2g&expires=1757029802|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/criclife2.m3u8?md6=YxF8Kfm4jPjUPRAkwlvOTg&expires=1757033307|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "eurosport_1",
@@ -690,7 +672,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Eurosport1.jpg",
     "tvg_id": "eurosp1",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/eurosp1.m3u8?md6=XEBBiDgohQEDaa4Xt6zVeA&expires=1757029803|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/eurosp1.m3u8?md6=LoIYNpjYHWzugc7UgFSdAA&expires=1757033308|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "eurosport_2",
@@ -699,7 +681,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Eurosport2.jpg",
     "tvg_id": "eurosp2",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/eurosp2.m3u8?md6=W77P8lDyquPUQEmxNjIFuw&expires=1757029804|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/eurosp2.m3u8?md6=_zOBXmy3EzdLaa2XjhAwSw&expires=1757033309|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "premier_sports_1",
@@ -708,7 +690,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Premiers1.jpg",
     "tvg_id": "viaplaysp1",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/viaplaysp1.m3u8?md6=6p5JL5_Y6SnQuvawxs8ooA&expires=1757029805|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/viaplaysp1.m3u8?md6=UlyJGWD_7-HcAFjmWDcbUA&expires=1757033309|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "premier_sports_2",
@@ -717,7 +699,7 @@
     "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/Premiers2.jpg",
     "tvg_id": "viaplaysp2",
     "tvg_chno": "",
-    "m3u8": "https://biz3.dlolcast.com:7059/hls/viaplaysp2.m3u8?md6=K-84tZmBgO2A9tRkmbvgrw&expires=1757029805|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
+    "m3u8": "https://biz3.dlolcast.com:7059/hls/viaplaysp2.m3u8?md6=PPlAGKJtzjkfebLFAyJ7tw&expires=1757033310|Referer=https://dlolcast.com/&Origin=https://dlolcast.com"
   },
   {
     "id": "sony_pix_hd",
