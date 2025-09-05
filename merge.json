@@ -1224,6 +1224,24 @@
     "m3u8": "https://tvsen6.aynaott.com/AbcNews/index.m3u8?e=1753741232&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=386b4eeb6eb14948c321b7e5e7b227cb"
   },
   {
+    "id": "amiricans_voice_news",
+    "title": "Amiricans Voice News",
+    "category": "News",
+    "logo": "https://s3.aynaott.com/storage/61d90e98d83e80bfea23c6b54d50d8e2",
+    "tvg_id": "12467e84-4c98-4a15-841d-61852f4a8a42",
+    "tvg_chno": "",
+    "m3u8": "https://tvsen6.aynaott.com/AmiricansVoiceNews/index.m3u8?e=1753741232&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=af9546f6dfdcf8992c909a6d09479923"
+  },
+  {
+    "id": "bek_tv_news",
+    "title": "BEK TV News",
+    "category": "News",
+    "logo": "https://s3.aynaott.com/storage/29420483e1d1a686555efbfa4f7fb9f8",
+    "tvg_id": "140905b7-dfdf-4e51-aaf5-6fd132773fbe",
+    "tvg_chno": "",
+    "m3u8": "https://tvsen6.aynaott.com/BekTvNews/index.m3u8?e=1753741233&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=d0de77c77979e44cb0625a804bd29c47"
+  },
+  {
     "id": "somoy_news_tv",
     "title": "Somoy News TV",
     "category": "News",
@@ -1798,24 +1816,6 @@
     "tvg_id": "50e2fe7f-fa1d-40ee-b37d-c19a992ed97c",
     "tvg_chno": "",
     "m3u8": "https://tvsen6.aynaott.com/AbcNews/index.m3u8?e=1753741257&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=41a2db2953c0051f942d340730d78e82"
-  },
-  {
-    "id": "amiricans_voice_news",
-    "title": "Amiricans Voice News",
-    "category": "English",
-    "logo": "https://s3.aynaott.com/storage/61d90e98d83e80bfea23c6b54d50d8e2",
-    "tvg_id": "12467e84-4c98-4a15-841d-61852f4a8a42",
-    "tvg_chno": "",
-    "m3u8": "https://tvsen6.aynaott.com/AmiricansVoiceNews/index.m3u8?e=1753741257&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=92b2030bec896fb756e7b2e35512935e"
-  },
-  {
-    "id": "bek_tv_news",
-    "title": "BEK TV News",
-    "category": "English",
-    "logo": "https://s3.aynaott.com/storage/29420483e1d1a686555efbfa4f7fb9f8",
-    "tvg_id": "140905b7-dfdf-4e51-aaf5-6fd132773fbe",
-    "tvg_chno": "",
-    "m3u8": "https://tvsen6.aynaott.com/BekTvNews/index.m3u8?e=1753741258&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=325b2471090065540105dbd310ae78a7"
   },
   {
     "id": "rds_social_tv",
