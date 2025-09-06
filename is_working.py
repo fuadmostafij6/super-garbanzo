@@ -66,4 +66,4 @@ def is_m3u8_working(url: str, cookies: str = "", user_agent: str = "") -> bool:
         return False
 
 
-print(is_m3u8_working(url="http://142.93.220.229:80/starmovieselect/tracks-v1a1/mono.m3u8", ))
+print(is_m3u8_working(url="https://bdixtv24.xyz/sports/m3u8.php/asportshd.m3u8", ))
