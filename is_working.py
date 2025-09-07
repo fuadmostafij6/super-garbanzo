@@ -66,4 +66,4 @@ def is_m3u8_working(url: str, cookies: str = "", user_agent: str = "") -> bool:
         return False
 
 
-print(is_m3u8_working(url="https://bdixtv24.xyz/sports/m3u8.php/asportshd.m3u8", ))
+print(is_m3u8_working(url="https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8", ))
